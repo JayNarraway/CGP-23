@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Map/Level_0.umap",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Tools/MacLib.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Input/Actions/IA_Jump.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Tools/FuncLib.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Input/Actions/IA_Move.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Input/Actions/IA_Look.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Input/Actions/IA_Interact.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Input/IMC.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Tools/EUtil_AssetActions.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Player/_PLAYER.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Player/_CONTROLLER.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/UI/UI_HUD.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Player/_GAMEMODE.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Tools/_BPI.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Tools/M_PaintBucket.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Tools/EUtil_ActorAction.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Input/Actions/I_Hello.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Input/Actions/I_Hello_2.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Input/Actions/I_Hello_3.uasset",
+				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Tools/MacroLibrary.uasset"
+			]
+		}
+	]
+}
