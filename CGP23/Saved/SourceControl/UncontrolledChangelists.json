@@ -5,13 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Map/Level_0.umap",
-				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Player/_PLAYER.uasset",
-				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Player/_CONTROLLER.uasset",
-				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Input/IMC.uasset",
-				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Input/Actions/IA_InteractInFront.uasset",
-				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Input/Actions/IA_Move.uasset",
-				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Input/Actions/IA_Interact.uasset",
 				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Map/Level_0.umap",
 				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Tools/MacLib.uasset",
 				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Input/Actions/IA_Jump.uasset",
