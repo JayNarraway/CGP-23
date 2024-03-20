@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/GridSys.umap",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Blueprints/BP_GridManager.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/GridSysMap.umap",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Player/_PLAYER.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Player/_CONTROLLER.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Map/Level_0.umap",
