@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/BP_QTEBase.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/BP_QTELogic.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/WB_QTE.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/BPC_QTELogic.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/BP_Profile1.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/BP_QTEProfile1.uasset",
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/GridSys.umap",
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Blueprints/BP_GridManager.uasset",
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/GridSysMap.umap",
