@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/UniversityFiles/Styx & Stones/CGP-23/CGP23/Content/Tech/Core/Iso/BP_PlayerISO.uasset",
 				"D:/UniversityFiles/Styx & Stones/CGP-23/CGP23/Content/Map/L_PrototypeLevel.umap",
 				"D:/UniversityFiles/Styx & Stones/CGP-23/CGP23/Content/Tech/Core/IA_Move.uasset",
@@ -73,6 +74,8 @@
 				"C:/Users/n012487l/Documents/CGP-23/CGP23/Content/Map/L_PrototypeLevel.umap",
 				"C:/Users/n012487l/Documents/CGP-23/CGP23/Content/Map/Level_0.umap",
 				"C:/Users/n012487l/Documents/CGP-23/CGP23/Content/Player/_PLAYER.uasset",
+=======
+>>>>>>> Tech
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Player/_PLAYER.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Player/_CONTROLLER.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Map/Level_0.umap",
@@ -101,6 +104,23 @@
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Assets/Materials/FlatColours/M_Grey.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Data/Plants/sGrowable.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Data/Plants/DT_Growables.uasset",
+<<<<<<< HEAD
+=======
+				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Inventory/UI_InventorySlot.uasset",
+				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Inventory/UI_Inventory.uasset",
+				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/BP_QTEProfile1.uasset",
+				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/BPC_QTELogic.uasset",
+				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/UI_QTE.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/BP_QTEBase.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/BP_QTELogic.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/WB_QTE.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/BPC_QTELogic.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/BP_Profile1.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/BP_QTEProfile1.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/GridSys.umap",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Blueprints/BP_GridManager.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/GridSysMap.umap",
+>>>>>>> Tech
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Input/Actions/IA_Move.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Input/Actions/IA_2DMovedaadasda.uasset",
 				"C:/Users/alexw/Documents/Unreal Projects/Template/Content/Map/Level_0.umap",
