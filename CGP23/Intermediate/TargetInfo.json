@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CGP23",
+			"Path": "C:\\Users\\Thoma\\OneDrive\\Documents\\GitHub\\CGP-23\\CGP23\\Source\\CGP23.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CGP23Editor",
+			"Path": "C:\\Users\\Thoma\\OneDrive\\Documents\\GitHub\\CGP-23\\CGP23\\Source\\CGP23Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
