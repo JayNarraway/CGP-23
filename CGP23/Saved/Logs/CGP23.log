@@ -2612,6 +2612,7 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.03.23-14.38.02:877][219]LogHttp: Warning: 0000043F77CA8200: libcurl info message cache 7 (Closing connection 22)
 [2024.03.23-14.38.02:877][219]LogHttp: Warning: 0000043F77CA8200: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
 [2024.03.23-14.38.02:877][219]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5460FEAB-4324-05B9-450E-9794FDA08C7C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=8f9f2fd748bab5b7cffdc796efcf078e%7C%7C3ab67505-240b-43ee-8abf-5efce2564d66&AppEnvironment=datacollector-binary&UploadType=eteventstream
+<<<<<<< HEAD
 [2024.03.23-14.40.58:257][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
 [2024.03.23-14.40.58:258][ 16]LogStall: Shutdown...
 [2024.03.23-14.40.58:260][ 16]LogStall: Shutdown complete.
@@ -3201,3 +3202,5 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.03.23-14.41.00:848][ 17]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.03.23-14.41.00:889][ 17]LogExit: Exiting.
 [2024.03.23-14.41.00:904][ 17]Log file closed, 03/23/24 14:41:00
+=======
+>>>>>>> Art
