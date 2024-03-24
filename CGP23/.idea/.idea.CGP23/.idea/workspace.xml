@@ -8,11 +8,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad828ccf-70bc-4d87-b963-af870599b4ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CGP23Editor/Development/DependencyCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/BP_CropPlotObject_Auto3.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-DCAA16CA427D690A3DB78BB912E69D6A/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-DCAA16CA427D690A3DB78BB912E69D6A_0000/CGP23.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-DCAA16CA427D690A3DB78BB912E69D6A_0000/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-DCAA16CA427D690A3DB78BB912E69D6A_0000/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-DCAA16CA427D690A3DB78BB912E69D6A_0000/UEMinidump.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-DCAA16CA427D690A3DB78BB912E69D6A_0001/CGP23.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-DCAA16CA427D690A3DB78BB912E69D6A_0001/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-DCAA16CA427D690A3DB78BB912E69D6A_0001/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Crashes/UECC-Windows-DCAA16CA427D690A3DB78BB912E69D6A_0001/UEMinidump.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/CGP23-backup-2024.03.22-22.26.37.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2024.03.24-17.19.35.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2024.03.24-17.19.35.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CGP23/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CGP23/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BP_CropPlotObject.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BP_CropPlotObject.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Map/Level_0.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Map/Level_0.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CGP23Editor/Development/Makefile.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CGP23Editor/Development/Makefile.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/CGP23.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/CGP23.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/CGP23.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/CGP23.vcxproj.filters" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/BP_CropPlotObject_Auto1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/BP_CropPlotObject_Auto1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/Map/Level_0_Auto1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Map/Level_0_Auto1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/Map/Level_0_Auto2.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Map/Level_0_Auto2.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/Map/Level_0_Auto3.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Map/Level_0_Auto3.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/CGP23.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/CGP23.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Template-backup-2024.03.08-18.38.15.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Template-backup-2024.03.08-19.28.50.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Template-backup-2024.03.11-13.50.32.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Template-backup-2024.03.11-15.02.53.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Template-backup-2024.03.11-17.04.54.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/Template-backup-2024.03.11-17.05.55.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,38 +53,42 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="Toolset" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2e3ghL3ShGChoEK2hVjeqj3UR1W" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;CropGrowthSystem&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "CropGrowthSystem",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\Thoma\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\Thoma\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\Thoma\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Thoma\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Thoma\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\Thoma\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="CGP23" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -184,7 +217,9 @@
       <updated>1711138801187</updated>
       <workItem from="1711138802704" duration="39000" />
       <workItem from="1711139105238" duration="1294000" />
-      <workItem from="1711140984373" duration="1476000" />
+      <workItem from="1711140984373" duration="1643000" />
+      <workItem from="1711300682140" duration="85000" />
+      <workItem from="1711300810210" duration="928000" />
     </task>
     <servers />
   </component>
@@ -192,6 +227,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>

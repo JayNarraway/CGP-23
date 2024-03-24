@@ -329,6 +329,7 @@
     <None Include="..\..\CGP23.uproject"/>
     <None Include="..\..\Source\CGP23.Target.cs"/>
     <None Include="..\..\Source\CGP23Editor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
