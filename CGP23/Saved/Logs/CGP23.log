@@ -1959,3 +1959,244 @@ Script Stack (0 frames) :
 [2024.03.24-19.16.45:926][685]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/BPC_Inventory.BPC_Inventory
 [2024.03.24-19.16.45:926][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.03.24-19.16.45:926][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.24-19.18.24:768][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.24-19.18.24:783][588]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/Level_0_Auto3
+[2024.03.24-19.18.24:783][588]LogSavePackage: Moving '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Saved/Level_0_Auto355D88BE74176D911EFE4AC8DC0027392.tmp' to '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Saved/Autosaves/Game/Map/Level_0_Auto3.umap'
+[2024.03.24-19.18.24:792][588]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/Level_0' took 0.044
+[2024.03.24-19.18.24:792][588]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2024.03.24-19.18.24:792][588]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Player/_PLAYER] ([2] browsable assets)...
+[2024.03.24-19.18.24:869][588]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/_PLAYER._PLAYER]
+[2024.03.24-19.18.24:869][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/_PLAYER]
+[2024.03.24-19.18.24:869][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/_PLAYER" FILE="../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Saved/Autosaves/Game/Player/_PLAYER_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.03.24-19.18.24:886][588]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player/_PLAYER_Auto3
+[2024.03.24-19.18.24:886][588]LogSavePackage: Moving '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Saved/_PLAYER_Auto32C08854D45DB6B079C950E9DD371F9C8.tmp' to '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Saved/Autosaves/Game/Player/_PLAYER_Auto3.uasset'
+[2024.03.24-19.18.24:892][588]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/DT_Items] ([1] browsable assets)...
+[2024.03.24-19.18.24:892][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/DT_Items]
+[2024.03.24-19.18.24:893][588]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/DT_Items_Auto3
+[2024.03.24-19.18.24:894][588]LogSavePackage: Moving '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Saved/DT_Items_Auto3753B957F479E5EE795ED94A45FA04B73.tmp' to '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Saved/Autosaves/Game/Inventory/DT_Items_Auto3.uasset'
+[2024.03.24-19.18.24:894][588]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_CropPlotObject] ([2] browsable assets)...
+[2024.03.24-19.18.24:894][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_CropPlotObject]
+[2024.03.24-19.18.24:905][588]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_CropPlotObject_Auto3
+[2024.03.24-19.18.24:905][588]LogSavePackage: Moving '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Saved/BP_CropPlotObject_Auto3004019CC4FE0F2CD7E414EAA08FD1A21.tmp' to '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Saved/Autosaves/Game/BP_CropPlotObject_Auto3.uasset'
+[2024.03.24-19.18.24:910][588]LogFileHelpers: Auto-saving content packages took 0.118
+[2024.03.24-19.18.58:365][690]LogHttp: Warning: 000006429654E600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5ED743F2-4C9C-2BC9-F814-E8B1E6BD34A8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=6f80ec7e474427b70f948c9edacfe9d7%7C%7C0d74d26c-38eb-4c39-9343-d72384936fe4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.24-19.18.58:365][690]LogHttp: Warning: 000006429654E600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.24-19.18.58:365][690]LogHttp: Warning: 000006429654E600: libcurl info message cache 0 (Found bundle for host: 0x642331702d0 [serially])
+[2024.03.24-19.18.58:365][690]LogHttp: Warning: 000006429654E600: libcurl info message cache 1 (Re-using existing connection #12 with host datarouter.ol.epicgames.com)
+[2024.03.24-19.18.58:365][690]LogHttp: Warning: 000006429654E600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.227.205.112) port 443 (#12))
+[2024.03.24-19.18.58:365][690]LogHttp: Warning: 000006429654E600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.24-19.18.58:365][690]LogHttp: Warning: 000006429654E600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.24-19.18.58:365][690]LogHttp: Warning: 000006429654E600: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.24-19.18.58:365][690]LogHttp: Warning: 000006429654E600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.24-19.18.58:365][690]LogHttp: Warning: 000006429654E600: libcurl info message cache 7 (Closing connection 12)
+[2024.03.24-19.18.58:365][690]LogHttp: Warning: 000006429654E600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.24-19.18.58:365][690]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5ED743F2-4C9C-2BC9-F814-E8B1E6BD34A8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=6f80ec7e474427b70f948c9edacfe9d7%7C%7C0d74d26c-38eb-4c39-9343-d72384936fe4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.24-19.19.41:786][819]LogSlate: Window 'BPC_Inventory' being destroyed
+[2024.03.24-19.19.41:796][819]LogSlate: Window 'BPC_Inventory' being destroyed
+[2024.03.24-19.19.41:799][819]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-19.19.41:799][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-19.19.41:843][819]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.24-19.19.41:843][819]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-19.19.41:843][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-19.19.41:873][819]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.24-19.19.41:874][819]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-19.19.41:874][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-19.19.41:930][819]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-19.19.41:930][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-19.19.41:945][819]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.24-19.19.41:946][819]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-19.19.41:946][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-19.19.41:974][819]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-19.19.41:974][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-19.19.43:800][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.03.24-19.19.43:837][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.03.24-19.19.45:184][909]LogSlate: Window 'Save Content' being destroyed
+[2024.03.24-19.19.48:730][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.03.24-19.19.48:748][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.24-19.19.52:956][258]LogSlate: Window 'Save Content' being destroyed
+[2024.03.24-19.19.52:966][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-19.19.53:020][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Level_0" FILE="../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Map/Level_0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.24-19.19.53:044][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.03.24-19.19.53:059][258]LogSavePackage: Moving output files for package: /Game/Map/Level_0
+[2024.03.24-19.19.53:059][258]LogSavePackage: Moving '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Saved/Level_04B19691342825346A28C79B0F68EC7AE.tmp' to '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Map/Level_0.umap'
+[2024.03.24-19.19.53:064][258]LogFileHelpers: No new changes to save!
+[2024.03.24-19.19.53:065][258]LogFileHelpers: Saving map 'Level_0' took 0.046
+[2024.03.24-19.19.53:066][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/_PLAYER" FILE="../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Player/_PLAYER.uasset" SILENT=true
+[2024.03.24-19.19.53:087][258]LogSavePackage: Moving output files for package: /Game/Player/_PLAYER
+[2024.03.24-19.19.53:088][258]LogSavePackage: Moving '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Saved/_PLAYERCCAC1D8144D90316A7DDEA9EF7B38A5B.tmp' to '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Player/_PLAYER.uasset'
+[2024.03.24-19.19.53:089][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_CropPlotObject" FILE="../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/BP_CropPlotObject.uasset" SILENT=true
+[2024.03.24-19.19.53:101][258]LogSavePackage: Moving output files for package: /Game/BP_CropPlotObject
+[2024.03.24-19.19.53:102][258]LogSavePackage: Moving '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Saved/BP_CropPlotObjectCE5A38C9459AE856CC08CB938A649D51.tmp' to '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/BP_CropPlotObject.uasset'
+[2024.03.24-19.19.53:103][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/DT_Items" FILE="../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Inventory/DT_Items.uasset" SILENT=true
+[2024.03.24-19.19.53:104][258]LogSavePackage: Moving output files for package: /Game/Inventory/DT_Items
+[2024.03.24-19.19.53:105][258]LogSavePackage: Moving '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Saved/DT_ItemsB56ED1A14024F22613CD40AB13ED30E6.tmp' to '../../../../../../Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Inventory/DT_Items.uasset'
+[2024.03.24-19.19.53:114][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 797 ms)
+[2024.03.24-19.19.53:115][258]LogStall: Shutdown...
+[2024.03.24-19.19.53:121][258]LogStall: Shutdown complete.
+[2024.03.24-19.19.53:148][258]LogSlate: Window 'CGP23 - Unreal Editor' being destroyed
+[2024.03.24-19.19.53:215][258]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.24-19.19.53:215][258]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/_PLAYER._PLAYER
+[2024.03.24-19.19.53:215][258]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Inventory/DT_Items.DT_Items
+[2024.03.24-19.19.53:215][258]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_CropPlotObject.BP_CropPlotObject
+[2024.03.24-19.19.53:215][258]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map/Level_0.Level_0
+[2024.03.24-19.19.53:217][259]Cmd: QUIT_EDITOR
+[2024.03.24-19.19.53:217][259]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.03.24-19.19.53:221][259]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.03.24-19.19.53:222][259]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.03.24-19.19.53:222][259]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.03.24-19.19.53:223][259]LogWorld: UWorld::CleanupWorld for Level_0, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-19.19.53:223][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.24-19.19.53:230][259]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.03.24-19.19.53:233][259]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.03.24-19.19.53:382][259]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.03.24-19.19.53:383][259]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.03.24-19.19.53:383][259]LogAudio: Display: Audio Device unregistered from world 'Level_0'.
+[2024.03.24-19.19.53:384][259]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.03.24-19.19.53:385][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.24-19.19.53:387][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.24-19.19.53:405][259]LogAudio: Display: Audio Device Manager Shutdown
+[2024.03.24-19.19.53:409][259]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.03.24-19.19.53:409][259]LogExit: Preparing to exit.
+[2024.03.24-19.19.53:453][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.53:461][259]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.24-19.19.54:656][259]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/]. Aborting watch request...
+[2024.03.24-19.19.54:674][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:674][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:674][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:674][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:674][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:674][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:674][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:674][259]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-19.19.54:675][259]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-19.19.54:676][259]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-19.19.54:677][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:677][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:677][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:677][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:677][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:677][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:677][259]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.03.24-19.19.54:677][259]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.03.24-19.19.54:727][259]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.03.24-19.19.54:734][259]LogExit: Editor shut down
+[2024.03.24-19.19.54:736][259]LogExit: Transaction tracking system shut down
+[2024.03.24-19.19.55:041][259]LogExit: Object subsystem successfully closed.
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: ================================================
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Total job queries 3,544, among them cache hits 2 (0.06%)
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Tracking 3,542 distinct input hashes that result in 2,513 distinct outputs (70.95%)
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: RAM used: 58.67 MiB of 1.60 GiB budget. Usage: 3.58%
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Shaders Compiled: 3,542
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Jobs assigned 3,542, completed 3,542 (100.00%)
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Average time worker was idle: 40.06 s
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Time job spent in pending queue: average 114.66 s, longest 245.02 s
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Job execution time: average 5.68 s, max 15.54 s
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Job life time (pending + execution): average 120.34 s, max 248.55
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 270.11 s
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Jobs were issued in 440 batches (only local compilation was used), average 8.05 jobs/batch
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Average processing rate: 13.11 jobs/sec
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Total thread time: 2,034.946 s
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Total thread preprocess time: 60.564 s
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Percentage time preprocessing: 2.98%
+[2024.03.24-19.19.55:047][259]LogShaderCompilers: Display: Effective parallelization: 7.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.24-19.19.55:048][259]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.24-19.19.55:048][259]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 4.87 sec, max 4.87 sec, min 4.87 sec)
+[2024.03.24-19.19.55:048][259]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.52 sec, max 8.07 sec, min 1.61 sec)
+[2024.03.24-19.19.55:048][259]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.15 sec, max 5.06 sec, min 2.77 sec)
+[2024.03.24-19.19.55:048][259]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   34 times, average 1.71 sec, max 4.13 sec, min 1.02 sec)
+[2024.03.24-19.19.55:048][259]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 1.68 sec, max 1.68 sec, min 1.68 sec)
+[2024.03.24-19.19.55:048][259]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.24-19.19.55:048][259]LogShaderCompilers: Display:                                             FDeferredLightPS - 9.77% of total time (compiled  150 times, average 1.33 sec, max 1.74 sec, min 1.10 sec)
+[2024.03.24-19.19.55:048][259]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.16% of total time (compiled   96 times, average 1.09 sec, max 1.63 sec, min 0.76 sec)
+[2024.03.24-19.19.55:048][259]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.49% of total time (compiled  128 times, average 0.71 sec, max 1.04 sec, min 0.43 sec)
+[2024.03.24-19.19.55:048][259]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.42% of total time (compiled  128 times, average 0.70 sec, max 0.88 sec, min 0.51 sec)
+[2024.03.24-19.19.55:048][259]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.32% of total time (compiled   96 times, average 0.92 sec, max 1.31 sec, min 0.43 sec)
+[2024.03.24-19.19.55:048][259]LogShaderCompilers: Display: ================================================
+[2024.03.24-19.19.55:130][259]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.03.24-19.19.55:188][259]LogVirtualization: UE::Virtualization was shutdown
+[2024.03.24-19.19.55:302][259]LogModuleManager: Shutting down and abandoning module DataTableEditor (1021)
+[2024.03.24-19.19.55:302][259]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1019)
+[2024.03.24-19.19.55:302][259]LogModuleManager: Shutting down and abandoning module AddContentDialog (1017)
+[2024.03.24-19.19.55:303][259]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1016)
+[2024.03.24-19.19.55:303][259]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1013)
+[2024.03.24-19.19.55:303][259]LogModuleManager: Shutting down and abandoning module SceneOutliner (1011)
+[2024.03.24-19.19.55:303][259]LogModuleManager: Shutting down and abandoning module StatusBar (1009)
+[2024.03.24-19.19.55:303][259]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1007)
+[2024.03.24-19.19.55:303][259]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1005)
+[2024.03.24-19.19.55:303][259]LogModuleManager: Shutting down and abandoning module StatsViewer (1003)
+[2024.03.24-19.19.55:304][259]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1001)
+[2024.03.24-19.19.55:304][259]LogModuleManager: Shutting down and abandoning module AutomationWorker (999)
+[2024.03.24-19.19.55:304][259]LogModuleManager: Shutting down and abandoning module SmartSnapping (997)
+[2024.03.24-19.19.55:304][259]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (995)
+[2024.03.24-19.19.55:305][259]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (993)
+[2024.03.24-19.19.55:306][259]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (991)
+[2024.03.24-19.19.55:306][259]LogModuleManager: Shutting down and abandoning module TextureAlignMode (989)
+[2024.03.24-19.19.55:306][259]LogModuleManager: Shutting down and abandoning module BspMode (987)
+[2024.03.24-19.19.55:307][259]LogModuleManager: Shutting down and abandoning module GeometryMode (985)
+[2024.03.24-19.19.55:307][259]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (983)
+[2024.03.24-19.19.55:307][259]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (981)
+[2024.03.24-19.19.55:307][259]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (979)
+[2024.03.24-19.19.55:307][259]LogModuleManager: Shutting down and abandoning module WebMMedia (977)
+[2024.03.24-19.19.55:307][259]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (975)
+[2024.03.24-19.19.55:307][259]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (973)
+[2024.03.24-19.19.55:307][259]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (971)
+[2024.03.24-19.19.55:308][259]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (969)
+[2024.03.24-19.19.55:309][259]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (967)
+[2024.03.24-19.19.55:309][259]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (965)
+[2024.03.24-19.19.55:309][259]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (963)
+[2024.03.24-19.19.55:310][259]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (961)
+[2024.03.24-19.19.55:310][259]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (959)
+[2024.03.24-19.19.55:310][259]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (957)
+[2024.03.24-19.19.55:310][259]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (955)
+[2024.03.24-19.19.55:310][259]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (953)
+[2024.03.24-19.19.55:311][259]LogModuleManager: Shutting down and abandoning module HoudiniEngineEditor (951)
+[2024.03.24-19.19.55:311][259]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2024.03.24-19.19.55:312][259]LogHoudiniEngineEditor: Houdini Engine Editor module shutdown complete.
+[2024.03.24-19.19.55:312][259]LogModuleManager: Shutting down and abandoning module PlanarCut (949)
+[2024.03.24-19.19.55:312][259]LogModuleManager: Shutting down and abandoning module FractureEngine (947)
+[2024.03.24-19.19.55:313][259]LogModuleManager: Shutting down and abandoning module CharacterAI (945)
+[2024.03.24-19.19.55:313][259]LogModuleManager: Shutting down and abandoning module WaveTableEditor (943)
+[2024.03.24-19.19.55:313][259]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (941)
+[2024.03.24-19.19.55:313][259]LogModuleManager: Shutting down and abandoning module GooglePADEditor (939)
+[2024.03.24-19.19.55:314][259]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (937)
+[2024.03.24-19.19.55:314][259]LogModuleManager: Shutting down and abandoning module SequenceRecorder (936)
+[2024.03.24-19.19.55:314][259]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (933)
+[2024.03.24-19.19.55:314][259]LogModuleManager: Shutting down and abandoning module IKRigEditor (931)
+[2024.03.24-19.19.55:315][259]LogModuleManager: Shutting down and abandoning module ControlRigEditor (929)
+[2024.03.24-19.19.55:317][259]LogModuleManager: Shutting down and abandoning module SessionServices (927)
+[2024.03.24-19.19.55:318][259]LogModuleManager: Shutting down and abandoning module MeshPaint (925)
+[2024.03.24-19.19.55:318][259]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (923)
+[2024.03.24-19.19.55:318][259]LogModuleManager: Shutting down and abandoning module PlacementMode (922)
+[2024.03.24-19.19.55:319][259]LogModuleManager: Shutting down and abandoning module FoliageEdit (919)
+[2024.03.24-19.19.55:320][259]LogModuleManager: Shutting down and abandoning module LandscapeEditor (917)
+[2024.03.24-19.19.55:322][259]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (915)
+[2024.03.24-19.19.55:322][259]LogModuleManager: Shutting down and abandoning module ActorPickerMode (913)
+[2024.03.24-19.19.55:322][259]LogModuleManager: Shutting down and abandoning module ViewportSnapping (911)
+[2024.03.24-19.19.55:322][259]LogModuleManager: Shutting down and abandoning module ViewportInteraction (909)
+[2024.03.24-19.19.55:322][259]LogModuleManager: Shutting down and abandoning module ClothPainter (907)
+[2024.03.24-19.19.55:323][259]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (906)
+[2024.03.24-19.19.55:324][259]LogModuleManager: Shutting down and abandoning module LogVisualizer (903)
+[2024.03.24-19.19.55:326][259]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (901)
+[2024.03.24-19.19.55:326][259]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (899)
+[2024.03.24-19.19.55:327][259]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (898)
+[2024.03.24-19.19.55:327][259]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (896)
