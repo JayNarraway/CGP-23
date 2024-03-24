@@ -1431,3 +1431,36 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.24-15.22.40:822][291]LogContentValidation: Display: Validating /Script/Blutility.EditorUtilityBlueprint /Game/Tools/ActorActions.ActorActions
 [2024.03.24-15.22.40:822][291]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map/L_MechanicsZoo.L_MechanicsZoo
 [2024.03.24-15.22.40:822][291]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Tools/M_Fill.M_Fill
+[2024.03.24-15.23.03:821][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Source/Editor/UnrealEd/Classes/ActorFactories: 'C:/Program Files/Epic Games/UE_5.2/Engine/Source/Editor/UnrealEd/Classes/ActorFactories' is outside repository at 'C:/Users/W013321M/Documents/GitHub/CGP-23'
+[2024.03.24-15.23.03:821][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Source/Runtime/AugmentedReality/Public/ARSkyLight.h: 'C:/Program Files/Epic Games/UE_5.2/Engine/Source/Runtime/AugmentedReality/Public/ARSkyLight.h' is outside repository at 'C:/Users/W013321M/Documents/GitHub/CGP-23'
+[2024.03.24-15.23.03:821][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineSky: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineSky' is outside repository at 'C:/Users/W013321M/Documents/GitHub/CGP-23'
+[2024.03.24-15.23.03:821][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineSky/VolumetricClouds: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EngineSky/VolumetricClouds' is outside repository at 'C:/Users/W013321M/Documents/GitHub/CGP-23'
+[2024.03.24-15.23.03:821][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/MapTemplates/Sky: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/MapTemplates/Sky' is outside repository at 'C:/Users/W013321M/Documents/GitHub/CGP-23'
+[2024.03.24-15.23.03:821][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMeshes/EditorSkySphere.uasset: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorMeshes/EditorSkySphere.uasset' is outside repository at 'C:/Users/W013321M/Documents/GitHub/CGP-23'
+[2024.03.24-15.23.03:959][227]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.24-15.23.03:994][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2024.03.24-15.23.03:994][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2024.03.24-15.23.03:995][227]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Map/L_MechanicsZoo.L_MechanicsZoo:PersistentLevel.BP_Sky_Sphere_C_0
+[2024.03.24-15.23.03:995][227]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Map/L_MechanicsZoo.L_MechanicsZoo:PersistentLevel.BP_Sky_Sphere_C_0
+[2024.03.24-15.23.04:191][242]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2024.03.24-15.23.04:191][242]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2024.03.24-15.23.04:193][242]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Map/L_MechanicsZoo.L_MechanicsZoo:PersistentLevel.BP_Sky_Sphere_C_1
+[2024.03.24-15.23.04:194][242]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Map/L_MechanicsZoo.L_MechanicsZoo:PersistentLevel.BP_Sky_Sphere_C_1
+[2024.03.24-15.23.12:866][958]Cmd: DELETE
+[2024.03.24-15.23.12:866][958]Cmd: ACTOR DELETE
+[2024.03.24-15.23.12:869][958]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.03.24-15.23.12:892][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.03.24-15.23.12:894][958]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.03.24-15.23.16:643][283]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.03.24-15.23.16:643][283]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.03.24-15.23.40:810][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.24-15.23.40:926][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.24-15.23.40:987][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/L_MechanicsZoo" FILE="../../../../../../Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Map/L_MechanicsZoo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.24-15.23.41:004][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.03.24-15.23.41:023][381]LogSavePackage: Moving output files for package: /Game/Map/L_MechanicsZoo
+[2024.03.24-15.23.41:023][381]LogSavePackage: Moving '../../../../../../Users/W013321M/Documents/GitHub/CGP-23/CGP23/Saved/L_MechanicsZoo58DC192642DDFCE9DFDBB0B64C8C70CD.tmp' to '../../../../../../Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Map/L_MechanicsZoo.umap'
+[2024.03.24-15.23.41:026][381]LogFileHelpers: No new changes to save!
+[2024.03.24-15.23.41:029][381]LogFileHelpers: Saving map 'L_MechanicsZoo' took 0.042
+[2024.03.24-15.23.41:039][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 1.86 sec)
+[2024.03.24-15.23.41:044][381]AssetCheck: New page: Asset Save: L_MechanicsZoo
+[2024.03.24-15.23.41:044][381]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map/L_MechanicsZoo.L_MechanicsZoo
