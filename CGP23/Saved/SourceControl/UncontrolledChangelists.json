@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/BP_QTEProfile1.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/Pot.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/QTE/BP_PotQTE.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Tech/Core/2D/IMC_2D.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Tech/Core/2D/BP_Player2D.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Tech/Core/Iso/BP_PlayerISO.uasset",
