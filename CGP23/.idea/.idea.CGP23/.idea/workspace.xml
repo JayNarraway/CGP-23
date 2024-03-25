@@ -8,306 +8,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad828ccf-70bc-4d87-b963-af870599b4ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/bed.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/bedroomFloor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/bedroomWallCorner.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/bedroomWallStraight.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/dinerCounterCorner.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/dinerCounterStraight.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/dinerFloor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/dinerStairs.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/dinerStool.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/doorway.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/fryingPan.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/kitchenCounter.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/kitchenFloor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/kitchenWallCorner.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/ladder.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/oven.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/saucepan.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/shedDoorway.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/shedWallCorner.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/shedWallStraight.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/sink.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/wallStraight.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/3DModules/wallZ.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Animations/Jog_Fwd.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/ABP_Manny.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/ABP_Quinn.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/Manny/MM_Idle.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/Manny/MM_Jump.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/Manny/MM_Land.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/Manny/MM_T_Pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Materials/M_Mannequin.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Meshes/Mannequin_LODSettings.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Meshes/SKM_Manny.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Meshes/SKM_Quinn.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Meshes/SK_Mannequin.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/IK_Mannequin.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/PA_Mannequin.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Rigs/RTG_Mannequin.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Meshes/Hades.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Meshes/Nyx.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Characters/Meshes/Persephone.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Cursor/FX_Cursor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Cursor/M_Cursor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Cursor/SM_CursorMesh.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/Cursor/T_Arrow.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/UI/Back.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/UI/Logo.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Assets/UI/Title.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Interactables/BP_Oven.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Interactables/BP_QTEInteractibleMaster.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Interactables/BP_Water.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Inventory/BPC_Inventory.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Inventory/BP_BaseItem.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Inventory/DT_Items.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Inventory/UI_Inventory.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Inventory/UI_InventorySlot.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Inventory/sItem.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/QTE/BPC_QTELogic.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/QTE/BP_QTEProfile1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Blueprints/QTE/UI_QTE.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Data/Food/DT_Food.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Data/Food/sFood.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Data/Item/DT_Items.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Data/Item/sItem.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Blueprint/BP_GoodSky.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Maps/Level_GoodSky_Showcase.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/ArrowTool/M_GoodSky_SkyRing_.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/ArrowTool/M_GoodSky_Sun_Emissive.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/ArrowTool/SM_GoodSky_Moon.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/ArrowTool/SM_GoodSky_StarMesh.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/ArrowTool/T_GoodSky_SkyRing.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Curve/Curve_Change.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Curve/Curve_GoodSky_DomeColor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Curve/Curve_GoodSky_Stars.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Curve/Curve_GoodSky_SunDirection_Vector.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Curve/Curve_GoodSky_SunLight.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Curve/Curve_GoodSky_horizon_Color.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/DataTable/DataTable_GoodSky.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Enum/Enum_GoodSky_Effects.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Enum/Enum_GoodSky_MeshType.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Enum/Enum_SunDirection.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Data/Structure/Structure_GoodSky.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Materials/Light_Function/M_GoodSky_StormLightning_LightFunction.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Materials/M_GoodSky_Base.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Materials/M_GoodSky_Moon.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Materials/M_GoodSky_Storm.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Materials/M_GoodSky_Sun_Stars.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Materials/M_GoodSky_Sun_Stars_Moon.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Materials/Material_Function/MF_GoodSky_Clouds_Setting.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Materials/Material_Function/MF_GoodSky_Global_Setting.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Materials/Material_Function/MF_GoodSky_Moon_Setting.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Materials/Material_Function/MF_GoodSky_Time.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Materials/Material_Function/MF_GoodSky_Top_Part_Alpha.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Mesh/SM_GoodSky_Hemisphere.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Mesh/SM_GoodSky_Sphere.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Textures/T_GoodSky_Lightning.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Textures/T_GoodSky_Moon.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Textures/T_GoodSky_Stars.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Textures/T_GoodSky_clouds_A.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Textures/T_GoodSky_clouds_B.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Textures/T_GoodSky_clouds_C.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Textures/T_GoodSky_clouds_D.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Textures/T_GoodSky_clouds_E.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Textures/T_GoodSky_clouds_F.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Textures/T_GoodSky_clouds_sphere.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/Textures/T_GoodSky_noise_smooth.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/GoodSky/Resource/UI/WB_GoodSky_Menu.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_Move.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_Pause.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Input/Actions/IA_QTE.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Input/IA_Interact.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Assets/FarmPlot.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Assets/Materials/MI_Brown.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Assets/Materials/MI_Green.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Assets/Materials/MI_TransGreen.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Assets/Materials/MI_TransRed.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Assets/Materials/M_SolidBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Assets/Materials/M_TranslucentColor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Blueprints/BI_BuildInterface.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Blueprints/BPC_BuildComponent.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Blueprints/BP_GridManager.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Blueprints/BP_TopDownCharacter.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Blueprints/Buildables/Build_FarmPlot.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Blueprints/DT_Buildables.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Blueprints/S_Buildables.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/Blueprints/W_MC_HUD.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/GridSysMap.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/InputActions/IA_ConfimBuild.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/InputActions/IA_LaunchBuildMode.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/TopDown/Blueprints/BP_TopDownController.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/TopDown/Blueprints/BP_TopDownGameMode.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/TopDown/Input/Actions/IA_SetDestination_Click.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/TopDown/Input/Actions/IA_SetDestination_Touch.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Kushagra/TopDown/Input/IMC_Default.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Map/L_ArtZoo.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Map/L_MechanicsZoo.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Map/Level_Art.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Player/_GM.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Tech/Core/2D/BP_Player2D.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Tech/Core/2D/GM_2D.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Tech/Core/2D/IMC_2D.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Tech/Core/2D/PC_2D.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Tech/Core/Iso/BP_IsoPlayer.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Tech/Core/Iso/BP_PlayerISO.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Tech/Core/Iso/GM_Iso.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Tech/Core/Iso/IMC_Iso.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Tech/Core/Iso/PC_Iso.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Tech/TechInit.txt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Tools/ActorActions.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Tools/M_Fill.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/OO/140BILQMIOX14WW57NR52V.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/AssetData/DataTableEditorLayout/DT_Growables.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CGP23/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CGP23/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CGP23.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CGP23.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/BP_CropPlotObject.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BP_CropPlotObject.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Inventory/DT_Items.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Inventory/DT_Items.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Map/Level_0.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Map/Level_0.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Player/_PLAYER.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Player/_PLAYER.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Kushagra/Blueprints/BPC_BuildComponent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Kushagra/Blueprints/BPC_BuildComponent.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Kushagra/Blueprints/BP_TopDownCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Kushagra/Blueprints/BP_TopDownCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Kushagra/Blueprints/DT_Buildables.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Kushagra/Blueprints/DT_Buildables.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Kushagra/Blueprints/S_Buildables.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Kushagra/Blueprints/S_Buildables.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/CGP23ModuleRules.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/CGP23ModuleRules.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/CGP23Editor/Development/CGP23Editor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/CGP23Editor/Development/CGP23Editor.uhtmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CGP23Editor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CGP23Editor/Development/DependencyCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CGP23Editor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CGP23Editor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CGP23Editor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CGP23Editor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CGP23Editor/Development/Makefile.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CGP23Editor/Development/Makefile.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CGP23/UnrealEditor-CGP23.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CGP23/UnrealEditor-CGP23.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE5.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/CGP23.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/CGP23.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -476,6 +201,7 @@
       <workItem from="1711300682140" duration="85000" />
       <workItem from="1711300810210" duration="928000" />
       <workItem from="1711304885868" duration="1467000" />
+      <workItem from="1711380247284" duration="835000" />
     </task>
     <servers />
   </component>
