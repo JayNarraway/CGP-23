@@ -12,9 +12,9 @@
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/Interactables/BP_CropPlotActor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Interactables/BP_CropPlotActor.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Map/L_MechanicsZoo.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Map/L_MechanicsZoo.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/CGP23-backup-2024.03.24-18.26.55.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/CGP23.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/CGP23.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,6 +201,7 @@
       <workItem from="1712331208313" duration="2343000" />
       <workItem from="1712419284283" duration="708000" />
       <workItem from="1712570575750" duration="1191000" />
+      <workItem from="1712677756827" duration="1189000" />
     </task>
     <servers />
   </component>
