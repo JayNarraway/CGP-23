@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/alexw/Downloads/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
+				"E:/alexw/Downloads/CGP-23/CGP23/Content/Blueprints/BP_CameraZone.uasset",
+				"E:/alexw/Downloads/CGP-23/CGP23/Content/Player/_PLAYER.uasset",
+				"E:/alexw/Downloads/CGP-23/CGP23/Content/Shaders/PPInst_ToonShade.uasset",
+				"E:/alexw/Downloads/CGP-23/CGP23/Content/Shaders/PP_ToonShade.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Tech/Core/2D/IMC_2D.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Tech/Core/2D/BP_Player2D.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Tech/Core/Iso/BP_PlayerISO.uasset",
