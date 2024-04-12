@@ -7,16 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad828ccf-70bc-4d87-b963-af870599b4ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CGP23/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CGP23/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Interactables/BP_CropPlotActor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Interactables/BP_CropPlotActor.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Map/L_MechanicsZoo.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Map/L_MechanicsZoo.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/Engine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/CGP23.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/CGP23.log" afterDir="false" />
-    </list>
+    <list default="true" id="ad828ccf-70bc-4d87-b963-af870599b4ff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,6 +193,7 @@
       <workItem from="1712419284283" duration="708000" />
       <workItem from="1712570575750" duration="1191000" />
       <workItem from="1712677756827" duration="1189000" />
+      <workItem from="1712944002254" duration="34000" />
     </task>
     <servers />
   </component>
