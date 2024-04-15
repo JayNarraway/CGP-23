@@ -16,12 +16,15 @@
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Assets/Tree_Promo__0.uasset",
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Assets/Trees/Tree_Promo_tex_promogranate1_1.uasset",
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Assets/Tree_Promo_tex_promogranate1_1.uasset",
-				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Assets/Tex_Promogranate3.uasset",
-				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Assets/Tex_Promogranate2.uasset",
-				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Assets/tex_promogranate1.uasset",
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Assets/FarmPlot.uasset",
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Blueprints/Buildables/Build_FarmPlot.uasset",
-				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Map/L_ArtExterior.umap"
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Blueprints/QuestSys/ObjectiveBP.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Blueprints/QuestSys/W_QuestIndicator.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/UI/UI_HUD.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Assets/Tex_Promogranate3.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Assets/Tex_Promogranate2.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Assets/tex_promogranate1.uasset"
 			]
 		}
 	]
