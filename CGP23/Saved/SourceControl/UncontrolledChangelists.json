@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/Customers/BP_CustomerInteraction.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/Customers/BP_Customer.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Tech/Currency/BPC_Currency.uasset",
+				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Map/L_MechanicsZoo.umap",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Blueprints/BP_CameraZone.uasset",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Player/_PLAYER.uasset",
