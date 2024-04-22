@@ -12,11 +12,7 @@
 			]
 		},
 		{
-<<<<<<< HEAD
 			"Name": "HoudiniEngine",
-=======
-			"Name": "PCG",
->>>>>>> BuildingSys
 			"Enabled": true
 		}
 	],
