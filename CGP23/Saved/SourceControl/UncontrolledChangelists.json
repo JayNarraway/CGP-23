@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/Tech/Currency/BP_Trader.uasset",
+				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/Design/UI/WBP_MiniInventory.uasset",
+				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
 				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/Customers/BP_CustomerInteraction.uasset",
 				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/Customers/BP_Customer.uasset",
 				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Tech/Currency/BPC_Currency.uasset",
