@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Assets/Materials/M_Ingredients.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/BP_CameraZone.uasset",
 				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/BPC_BuildComponent.uasset",
 				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/Data/Saving/Transition.uasset",
 				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/Tech/LevelSwitching/Transition.uasset",
