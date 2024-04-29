@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/CropPlot/BP_CropPlotActor_New_12.uasset",
+				"C:/Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/CropPlot/BP_CropPlotActor_New_1.uasset",
+				"C:/Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/CropPlot/BP_CropActor.uasset",
+				"C:/Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
 				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/BPC_BuildComponent.uasset",
 				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/Data/Saving/Transition.uasset",
 				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/Tech/LevelSwitching/Transition.uasset",
