@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/b023068l/Documents/GitHub/CGP-23/CGP23/Content/Kushagra/Assets/Trees/MI_PurpleLeaves.uasset",
+				"C:/Users/b023068l/Documents/GitHub/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/b023068l/Documents/GitHub/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/BI_Interact.uasset",
+				"C:/Users/b023068l/Documents/GitHub/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/CH_NPC.uasset",
+				"C:/Users/b023068l/Documents/GitHub/CGP-23/CGP23/Content/Kushagra/GridSysMap.umap",
+				"C:/Users/b023068l/Documents/GitHub/CGP-23/CGP23/Content/Kushagra/TopDown/Blueprints/BP_TopDownGameMode.uasset",
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/CH_NPC.uasset",
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/BPC_BuildComponent.uasset",
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/BP_TopDownCharacter.uasset",
