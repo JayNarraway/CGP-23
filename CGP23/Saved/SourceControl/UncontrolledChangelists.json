@@ -11,6 +11,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 				"C:/Users/w017392l/Documents/GitHub/CGP-23/CGP23/Content/Assets/Materials/Textures/Tex_GrassMasks.uasset",
 				"C:/Users/w017392l/Documents/GitHub/CGP-23/CGP23/Content/Assets/Materials/M_LandscapePaint.uasset",
@@ -301,6 +302,24 @@
 				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/ENM_GrowthModes.uasset",
 				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/ENM_HarvestModes.uasset",
 				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/Tech/Inventory/UI_Inventory.uasset",
+=======
+				"C:/Users/b023068l/Documents/GitHub/CGP-23/CGP23/Content/Kushagra/Assets/Trees/MI_PurpleLeaves.uasset",
+				"C:/Users/b023068l/Documents/GitHub/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/b023068l/Documents/GitHub/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/BI_Interact.uasset",
+				"C:/Users/b023068l/Documents/GitHub/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/CH_NPC.uasset",
+				"C:/Users/b023068l/Documents/GitHub/CGP-23/CGP23/Content/Kushagra/GridSysMap.umap",
+				"C:/Users/b023068l/Documents/GitHub/CGP-23/CGP23/Content/Kushagra/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/CH_NPC.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/BPC_BuildComponent.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/BP_TopDownCharacter.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/CH_DummyPlayer.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/Tools/_BPI.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/QuestSys/BPC_QuestGiver.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/QuestSys/W_QuestGiver.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/UI/W_QuestGiver.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/Core/CH_DummyPlayer.uasset",
+>>>>>>> Kushagra'sBranch
 				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/Customers/BP_CustomerInteraction.uasset",
 				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Blueprints/Customers/BP_Customer.uasset",
 				"C:/Users/Bobbic/School Work/Year 2/CGP-23/CGP23/Content/Tech/Currency/BPC_Currency.uasset",
