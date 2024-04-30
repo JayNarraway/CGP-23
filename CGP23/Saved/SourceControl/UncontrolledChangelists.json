@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Assets/Materials/M_Ingredients.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/BP_CameraZone.uasset",
@@ -72,6 +73,11 @@
 				"C:/Users/m019503k/Documents/GitHub/CGP-23/CGP23/Content/Assets/Materials/Textures/FaceSprites/Perseph/Tex_Persephone_Head_Happy.uasset",
 				"C:/Users/m019503k/Documents/GitHub/CGP-23/CGP23/Content/Assets/Materials/Textures/FaceSprites/Lamb/Text_Lamb_Head_Happy.uasset",
 >>>>>>> Jack-branch
+=======
+				"C:/Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_Ladder.uasset",
+				"C:/Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
+				"C:/Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_CombinationStation.uasset",
+>>>>>>> Ladder
 				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/BPC_BuildComponent.uasset",
 				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/Data/Saving/Transition.uasset",
 				"D:/UniversityFiles/StyxNStones/CGP-23/CGP23/Content/Tech/LevelSwitching/Transition.uasset",
