@@ -64,8 +64,12 @@
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Assets/Meshes/EnvModular/exterior/RockBoulder.uasset",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Assets/Meshes/EnvModular/exterior/fence_Cube.uasset",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Assets/Meshes/EnvModular/interior/garlicBraid.uasset",
-				"E:/alexw/Downloads/CGP-23/CGP23/Content/Assets/EnvModular/exterior/path_LayerInfo.uasset",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Assets/Characters/Meshes/Hades_low.uasset",
+				"E:/alexw/Downloads/CGP-23/CGP23/Content/Map/L_Interior.umap",
+				"E:/alexw/Downloads/CGP-23/CGP23/Content/Assets/Characters/Meshes/SMC_Nyx.uasset",
+				"E:/alexw/Downloads/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/CH_NPC.uasset",
+				"E:/alexw/Downloads/CGP-23/CGP23/Content/Assets/Characters/Meshes/Nyx.uasset",
+				"E:/alexw/Downloads/CGP-23/CGP23/Content/Assets/EnvModular/exterior/path_LayerInfo.uasset",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Tech/BuildingNQuests/CH_DummyPlayer.uasset",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Tutorial/TutorialManager.uasset",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Tech/Inventory/BPC_Inventory.uasset",
@@ -161,8 +165,7 @@
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Assets/Materials/ModularMats/M_DinerWallR.uasset",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Assets/Materials/ModularMats/M_DinerWallB.uasset",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Assets/Materials/ModularMats/M_BedSheets.uasset",
-				"E:/alexw/Downloads/CGP-23/CGP23/Content/Tech/CropPlot/BP_CropPlotActor_New_1.uasset",
-				"E:/alexw/Downloads/CGP-23/CGP23/Content/Map/L_Interior.umap"
+				"E:/alexw/Downloads/CGP-23/CGP23/Content/Tech/CropPlot/BP_CropPlotActor_New_1.uasset"
 			]
 		}
 	]
