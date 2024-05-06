@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/d020333l/Documents/GitHub/CGP-23/CGP23/Content/Map/L_Tutorial.umap",
+				"C:/Users/d020333l/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
+				"C:/Users/d020333l/Documents/GitHub/CGP-23/CGP23/Content/Static_Data/Food/DT_ChopData.uasset",
+				"C:/Users/d020333l/Documents/GitHub/CGP-23/CGP23/Content/Static_Data/Item/DT_Items.uasset",
+				"C:/Users/d020333l/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/BPC_ArrowsQTE.uasset",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Player/_PLAYER.uasset",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Assets/Characters/Meshes/GhostCustomer_Low.uasset",
