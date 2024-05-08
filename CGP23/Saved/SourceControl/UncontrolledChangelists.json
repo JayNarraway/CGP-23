@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/IA_Eject.uasset",
+				"C:/Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Input/IMC_ISO.uasset",
+				"C:/Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Player/_PLAYER.uasset",
+				"C:/Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Inventory/BPC_Inventory.uasset",
+				"C:/Users/c017176m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Inventory/UI_Inventory.uasset",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Player/_PLAYER.uasset",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
 				"E:/alexw/Downloads/CGP-23/CGP23/Content/Assets/Characters/Meshes/GhostCustomer_Low.uasset",
