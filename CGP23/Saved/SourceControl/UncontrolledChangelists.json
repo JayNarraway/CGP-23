@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/Animation/Anims/WalkRotated.uasset",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Inventory/BP_BaseItem.uasset",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/VFX/BP_WalkNotifyLeft.uasset",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/VFX/NS_WalkingRubble.uasset",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
 				"C:/Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap"
 			]
