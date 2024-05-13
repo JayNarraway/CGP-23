@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/UI_QTE.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Customers/BP_CustomerManager.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/UI/UI_MainMenu.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/BPC_QTELogic.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Inventory/UI_Inventory.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Inventory/UI_InventorySlot.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Customers/BP_Customer.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Static_Data/SMenu/DT_Menu0.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap"
 			]
 		}
