@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
+				"C:/Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Combination/WBP_Combination.uasset",
+				"C:/Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Combination/BP_CombinationStation.uasset",
+				"C:/Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Combination/WBP_CombiRecipe.uasset",
+				"C:/Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Static_Data/Food/DT_CombiData.uasset",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap"
 			]
 		}
