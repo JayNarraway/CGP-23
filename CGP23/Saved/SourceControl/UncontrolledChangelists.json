@@ -10,6 +10,15 @@
 				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_Oven.uasset",
 				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
 				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_ChopingBoard.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/UI_QTE.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/WB_OvenQTE.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/BPC_QTELogic.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Input/Actions/QTEActions/IA_Trigger.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Input/IMC_QTE.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_QTEInteractibleMaster.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_InteractableMaster.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/TEmp.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/TEMERE.umap",
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap"
 			]
 		}
