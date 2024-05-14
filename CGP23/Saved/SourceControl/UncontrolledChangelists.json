@@ -6,14 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Inventory/UI_InventorySlot.uasset",
-				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Input/IA_Eject.uasset",
-				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/IA_Eject.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Input/Actions/IA_Eject.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/UI/UI_HUD.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Player/_PLAYER.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/VFX/M_DynamicFloor.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Input/IMC_ISO.uasset",
-				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/VFX/NS_WalkingRubble.uasset"
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/VFX/NS_WalkingRubble.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Input/IMC_2D.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Input/IA_Eject.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/IA_Eject.uasset"
 			]
 		}
 	]
