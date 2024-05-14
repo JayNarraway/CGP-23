@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/ryanb/OneDrive/Documents/GitHub/CGP-23/CGP23/Content/Assets/Audio/Sounds/SFX/FoleySounds/Wood_Footstep_3.uasset",
 				"C:/Users/ryanb/OneDrive/Documents/GitHub/CGP-23/CGP23/Content/Assets/Audio/Sounds/SFX/FoleySounds/0__Grunt.uasset",
 				"C:/Users/ryanb/OneDrive/Documents/GitHub/CGP-23/CGP23/Content/Assets/Audio/Sounds/SFX/FoleySounds/Bush_Forage.uasset",
@@ -262,6 +263,15 @@
 				"C:/Users/w017392l/Documents/GitHub/CGP-23/CGP23/Content/Assets/Meshes/EnvModular/exterior/RockStack.uasset",
 >>>>>>> ArtFinalWeekRob
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap"
+=======
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/VFX/NS_WalkingRubble.uasset",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Customers/BP_Customer.uasset",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/VFX/NS_PanFire.uasset",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_CropPlot.uasset",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/CropPlot/BP_CropPlotActor_New_1.uasset",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/VFX/NS_MainFire.uasset"
+>>>>>>> Fishing/VFX
 			]
 		}
 	]
