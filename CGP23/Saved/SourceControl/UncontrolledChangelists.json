@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Inventory/UI_InventorySlot.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Input/Actions/IA_Eject.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/UI/UI_HUD.uasset",
@@ -15,6 +16,28 @@
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Input/IMC_2D.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Input/IA_Eject.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/IA_Eject.uasset"
+=======
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/QuestSys/DT_QuestData.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Blueprints/Inventory/BP_BaseItem.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Blueprints/Interactables/CropPlot/BP_CropPlotActor_New_1.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Blueprints/Interactables/BP_CropPlot.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/QuestSys/BPC_QuestGiver.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/QuestSys/QuestUI/W_QuestGiver.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/UI/W_QuestGiver.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/QuestSys/QuestUI/W_QuestLogQuestEntry.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/QuestSys/QuestUI/W_QuestLog.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Player/_PLAYER.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/UI/UI_HUD.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/CH_NPC.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/QuestSys/BP_Quest_NPC_Giver.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/QuestSys/BP_BaseQuest.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/Blueprints/BPC_BuildComponent.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/QuestSys/BPC_QuestLog.uasset",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Map/Untitled.umap",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Untitled.umap",
+				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Kushagra/GridSysMap.umap"
+>>>>>>> Kushagra'sBranch
 			]
 		}
 	]
