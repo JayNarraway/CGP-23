@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/m014035m.STUDENT/Documents/GitHub/CGP-23/CGP23/Content/VFX/NS_WalkingRubble.uasset",
+				"C:/Users/m014035m.STUDENT/Documents/GitHub/CGP-23/CGP23/Content/VFX/M_FootPrint.uasset",
+				"C:/Users/m014035m.STUDENT/Documents/GitHub/CGP-23/CGP23/Content/VFX/RT_FloorView.uasset",
+				"C:/Users/m014035m.STUDENT/Documents/GitHub/CGP-23/CGP23/Content/Player/_PLAYER.uasset",
+				"C:/Users/m014035m.STUDENT/Documents/GitHub/CGP-23/CGP23/Content/VFX/BP_WalkNotifyLeft.uasset",
+				"C:/Users/m014035m.STUDENT/Documents/GitHub/CGP-23/CGP23/Content/VFX/BP_WalkNotifyRight.uasset",
 				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/VFX/NS_WalkingRubble.uasset",
 				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Customers/BP_Customer.uasset",
 				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/VFX/NS_PanFire.uasset",
