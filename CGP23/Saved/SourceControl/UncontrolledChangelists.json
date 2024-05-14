@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/ryanb/OneDrive/Documents/GitHub/CGP-23/CGP23/Content/Assets/Audio/Sounds/SFX/FoleySounds/Wood_Footstep_3.uasset",
 				"C:/Users/ryanb/OneDrive/Documents/GitHub/CGP-23/CGP23/Content/Assets/Audio/Sounds/SFX/FoleySounds/0__Grunt.uasset",
 				"C:/Users/ryanb/OneDrive/Documents/GitHub/CGP-23/CGP23/Content/Assets/Audio/Sounds/SFX/FoleySounds/Bush_Forage.uasset",
@@ -130,6 +131,22 @@
 				"C:/Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Assets/Art/Pot/potForeground.uasset",
 				"C:/Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Assets/Art/Pot/Spoon.uasset",
 >>>>>>> Ladder
+=======
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/BPC_ArrowsQTE.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/BPC_CycleQTE.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_Oven.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_ChopingBoard.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/UI_QTE.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/WB_OvenQTE.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/BPC_QTELogic.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Input/Actions/QTEActions/IA_Trigger.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Input/IMC_QTE.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_QTEInteractibleMaster.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_InteractableMaster.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/TEmp.uasset",
+				"C:/Users/a018366m/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/QTE/TEMERE.umap",
+>>>>>>> QTE-System
 				"C:/Users/alexw/Documents/GitHub/CGP-23/CGP23/Content/Map/L_ArtExterior.umap"
 			]
 		}
