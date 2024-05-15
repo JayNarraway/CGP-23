@@ -16,7 +16,11 @@
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Assets/Materials/Textures/Gorgon_lp_Head_BaseColor_Mat.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Player/_PLAYER.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Assets/Characters/Meshes/SMC_Nyx.uasset",
-				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/CH_NPC.uasset"
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/CH_NPC.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Fishing_Visuals/BP_FishingLure.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_Water.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Assets/Meshes/EnvModular/exterior/BP_FenceSpline.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_Ladder.uasset"
 			]
 		}
 	]
