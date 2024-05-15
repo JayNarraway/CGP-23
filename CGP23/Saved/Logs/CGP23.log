@@ -1489,3 +1489,1032 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.15-11.34.37:869][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2024.05.15-11.34.37:882][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
 [2024.05.15-11.34.37:907][425]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.05.15-11.35.56:016][837]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.35.56:033][838]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.35.59:122][119]LogShaderCompilers: Display: ================================================
+[2024.05.15-11.35.59:122][119]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.15-11.35.59:122][119]LogShaderCompilers: Display: Total job queries 435, among them cache hits 37 (8.51%)
+[2024.05.15-11.35.59:122][119]LogShaderCompilers: Display: Tracking 398 distinct input hashes that result in 173 distinct outputs (43.47%)
+[2024.05.15-11.35.59:122][119]LogShaderCompilers: Display: RAM used: 8.13 MiB of 1.60 GiB budget. Usage: 0.50%
+[2024.05.15-11.35.59:122][119]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.15-11.35.59:122][119]LogShaderCompilers: Display: Shaders Compiled: 398
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Jobs assigned 398, completed 398 (100.00%)
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Average time worker was idle: 0.84 s
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Time job spent in pending queue: average 14.73 s, longest 30.71 s
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 3.75 s
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Job life time (pending + execution): average 15.45 s, max 31.37
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 37.18 s
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Jobs were issued in 398 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Average processing rate: 10.70 jobs/sec
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Total thread time: 238.404 s
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Total thread preprocess time: 8.138 s
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Percentage time preprocessing: 3.41%
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Effective parallelization: 6.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 1.72 sec, max 3.68 sec, min 0.74 sec)
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display:                                       FPostProcessMaterialPS (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   85 times, average 0.78 sec, max 1.05 sec, min 0.55 sec)
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   88 times, average 0.70 sec, max 1.05 sec, min 0.48 sec)
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    6 times, average 0.63 sec, max 0.91 sec, min 0.53 sec)
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.71% of total time (compiled   85 times, average 0.78 sec, max 1.05 sec, min 0.55 sec)
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.78% of total time (compiled   88 times, average 0.70 sec, max 1.05 sec, min 0.48 sec)
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.84% of total time (compiled   77 times, average 0.58 sec, max 0.85 sec, min 0.40 sec)
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.20% of total time (compiled   77 times, average 0.44 sec, max 0.59 sec, min 0.31 sec)
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display:                                                  FHitProxyVS - 3.13% of total time (compiled   12 times, average 0.62 sec, max 0.81 sec, min 0.43 sec)
+[2024.05.15-11.35.59:123][119]LogShaderCompilers: Display: ================================================
+[2024.05.15-11.36.00:198][220]LogEditorViewport: Clicking Background
+[2024.05.15-11.36.50:617][142]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.15-11.36.50:626][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.15-11.36.50:626][142]PIE: New page: PIE session: L_ArtExterior (15 May 2024, 13:36:50)
+[2024.05.15-11.36.50:627][142]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.36.50:723][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096577s)
+[2024.05.15-11.36.50:723][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/L_ArtExterior.L_ArtExterior to /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior (0.096610s)
+[2024.05.15-11.36.50:723][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.36.50:723][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.36.50:723][142]LogAIModule: Creating AISystem for world L_ArtExterior
+[2024.05.15-11.36.50:724][142]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2024.05.15-11.36.50:746][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.15-11.36.50:747][142]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.15-11.36.50:747][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-11.36.50:747][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-11.36.50:747][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-11.36.50:747][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-11.36.50:747][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-11.36.50:747][142]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.15-11.36.50:747][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-11.36.50:747][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-11.36.50:748][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-11.36.50:748][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-11.36.50:748][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-11.36.50:749][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-11.36.50:764][142]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.15-11.36.50:764][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-11.36.50:764][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-11.36.50:764][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-11.36.50:765][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.15-11.36.50:765][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.15-11.36.50:766][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.15-11.36.50:766][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.15-11.36.50:766][142]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.15-11.36.50:766][142]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_ArtExterior'.
+[2024.05.15-11.36.50:766][142]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.15-11.36.50:824][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.36.50:824][142]LogLoad: Game class is '_GM_C'
+[2024.05.15-11.36.50:842][142]LogWorld: Bringing World /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior up for play (max tick rate 0) at 2024.05.15-12.36.50
+[2024.05.15-11.36.50:843][142]LogWorld: Bringing up level for play took: 0.019051
+[2024.05.15-11.36.50:845][142]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.05.15-11.36.50:851][142]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.36.50:851][142]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.36.50:851][142]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.15-11.36.50:853][142]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.36.50:853][142]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_4.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.36.50:853][142]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.36.50:853][142]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_4.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.36.50:853][142]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.36.50:853][142]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_4.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.36.50:853][142]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.36.50:853][142]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_4.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.36.50:853][142]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.36.50:853][142]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_4.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.36.50:853][142]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.36.50:853][142]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_4.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.36.50:854][142]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.36.50:854][142]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_4.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.36.50:854][142]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.36.50:854][142]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_4.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.36.50:857][142]PIE: Server logged in
+[2024.05.15-11.36.50:859][142]PIE: Play in editor total start time 0.233 seconds.
+[2024.05.15-11.36.50:874][142]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.05.15-11.36.51:763][212]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.36.51:763][212]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.36.54:373][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.36.54:374][342]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.36.54:376][342]LogSlate: Window 'CGP23 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.15-11.36.54:395][342]LogWorld: UWorld::CleanupWorld for L_ArtExterior, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-11.36.54:398][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.36.54:401][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-11.36.54:406][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.36.54:429][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.15-11.36.54:429][342]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.15-11.36.54:429][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.15-11.36.54:431][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.15-11.36.54:442][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.05.15-11.36.54:464][343]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.05.15-11.38.50:560][682]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.15-11.38.50:568][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.15-11.38.50:569][682]PIE: New page: PIE session: L_ArtExterior (15 May 2024, 13:38:50)
+[2024.05.15-11.38.50:569][682]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.38.50:651][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081838s)
+[2024.05.15-11.38.50:651][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/L_ArtExterior.L_ArtExterior to /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior (0.081897s)
+[2024.05.15-11.38.50:651][682]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.38.50:651][682]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.38.50:652][682]LogAIModule: Creating AISystem for world L_ArtExterior
+[2024.05.15-11.38.50:652][682]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2024.05.15-11.38.50:672][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.05.15-11.38.50:673][682]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.05.15-11.38.50:674][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-11.38.50:674][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-11.38.50:674][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-11.38.50:674][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-11.38.50:674][682]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-11.38.50:674][682]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.15-11.38.50:674][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-11.38.50:674][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-11.38.50:674][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-11.38.50:674][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-11.38.50:674][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-11.38.50:676][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-11.38.50:691][682]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.15-11.38.50:692][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-11.38.50:692][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-11.38.50:692][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-11.38.50:692][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.05.15-11.38.50:692][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.05.15-11.38.50:694][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.05.15-11.38.50:694][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.05.15-11.38.50:694][682]LogInit: FAudioDevice initialized with ID 7.
+[2024.05.15-11.38.50:694][682]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_ArtExterior'.
+[2024.05.15-11.38.50:694][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.15-11.38.50:774][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.38.50:774][682]LogLoad: Game class is '_GM_C'
+[2024.05.15-11.38.50:792][682]LogWorld: Bringing World /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior up for play (max tick rate 0) at 2024.05.15-12.38.50
+[2024.05.15-11.38.50:793][682]LogWorld: Bringing up level for play took: 0.018652
+[2024.05.15-11.38.50:795][682]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.05.15-11.38.50:800][682]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.38.50:800][682]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.38.50:800][682]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_5.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_5.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_5.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_5.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_5.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_5.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_5.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.38.50:803][682]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_5.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.38.50:807][682]PIE: Server logged in
+[2024.05.15-11.38.50:809][682]PIE: Play in editor total start time 0.241 seconds.
+[2024.05.15-11.38.50:845][682]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.05.15-11.38.51:899][751]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.38.51:899][751]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.38.57:293][974]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.38.57:293][974]LogScript: Warning: Script Msg called by: _PLAYER_C /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior:PersistentLevel._PLAYER_C_0
+[2024.05.15-11.39.03:753][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.39.03:753][332]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.39.03:755][332]LogSlate: Window 'CGP23 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.15-11.39.03:775][332]LogWorld: UWorld::CleanupWorld for L_ArtExterior, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-11.39.03:779][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.39.03:781][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-11.39.03:787][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.39.03:810][332]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.15-11.39.03:810][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.15-11.39.03:812][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.15-11.39.03:822][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.05.15-11.39.03:842][333]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.05.15-11.39.16:072][855]LogInterchangeEngine: [Pending] Importing
+[2024.05.15-11.39.16:072][855]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/d017080k/Downloadssheep art (1).png]
+[2024.05.15-11.39.16:072][855]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.15-11.39.16:115][856]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.15-11.39.16:121][856]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.15-11.39.16:320][856]LogInterchangeEngine: [Success] Import Done
+[2024.05.15-11.39.16:320][856]LogInterchangeEngine: [Pending] Importing
+[2024.05.15-11.39.16:320][856]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/d017080k/Downloadsspeach bubble.png]
+[2024.05.15-11.39.16:322][856]LogTexture: Display: Building textures: /Game/Assets/Art/sheep_art__1_.sheep_art__1_ (TFO_AutoDXT, 1848x1848 x1x1x1) (Required Memory Estimate: 234.559082 MB), EncodeSpeed: Fast
+[2024.05.15-11.39.16:348][856]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.05.15-11.39.16:358][856]LogTexture: Display: Building textures: /Game/Assets/Art/speach_bubble.speach_bubble (BGRA8, 2221x1163 x1x1x1) (Required Memory Estimate: 75.60561 MB), EncodeSpeed: Fast
+[2024.05.15-11.39.16:375][856]LogInterchangeEngine: [Success] Import Done
+[2024.05.15-11.39.16:418][857]LogInterchangeEngine: [Success] Import Done
+[2024.05.15-11.39.16:451][857]LogInterchangeEngine: [Success] Import Done
+[2024.05.15-11.39.20:114][962]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Art/sheep_art__1_.sheep_art__1_
+[2024.05.15-11.39.20:206][962]LogViewport: Scene viewport resized to 919x555, mode Windowed.
+[2024.05.15-11.39.20:282][963]LogViewport: Scene viewport resized to 919x537, mode Windowed.
+[2024.05.15-11.39.20:316][964]LogViewport: Scene viewport resized to 919x534, mode Windowed.
+[2024.05.15-11.39.21:646][ 68]LogSlate: Window 'sheep_art__1_' being destroyed
+[2024.05.15-11.39.21:652][ 68]LogSlate: Window 'sheep_art__1_' being destroyed
+[2024.05.15-11.39.21:658][ 68]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-11.39.21:658][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.39.30:319][ 52]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Interactables/Combination/WBP_Combination.WBP_Combination
+[2024.05.15-11.39.30:320][ 52]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.39.30:320][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.39.30:334][ 52]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.39.30:334][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.39.30:341][ 52]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.05.15-11.39.30:497][ 52]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.05.15-11.39.30:498][ 52]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.15-11.39.33:231][268]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: ================================================
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Total job queries 439, among them cache hits 37 (8.43%)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Tracking 401 distinct input hashes that result in 174 distinct outputs (43.39%)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: RAM used: 8.23 MiB of 1.60 GiB budget. Usage: 0.50%
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Shaders Compiled: 401
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Jobs assigned 402, completed 401 (99.75%)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Average time worker was idle: 5.51 s
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Time job spent in pending queue: average 14.58 s, longest 30.71 s
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 3.75 s
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Job life time (pending + execution): average 15.34 s, max 31.37
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 37.94 s
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Jobs were issued in 402 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Average processing rate: 10.57 jobs/sec
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Total thread time: 239.971 s
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Total thread preprocess time: 8.187 s
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Percentage time preprocessing: 3.41%
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Effective parallelization: 6.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 1.42 sec, max 3.68 sec, min 0.51 sec)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display:                                       FPostProcessMaterialPS (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   85 times, average 0.78 sec, max 1.05 sec, min 0.55 sec)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   90 times, average 0.69 sec, max 1.05 sec, min 0.48 sec)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    6 times, average 0.63 sec, max 0.91 sec, min 0.53 sec)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.53% of total time (compiled   85 times, average 0.78 sec, max 1.05 sec, min 0.55 sec)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.05% of total time (compiled   90 times, average 0.69 sec, max 1.05 sec, min 0.48 sec)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.72% of total time (compiled   77 times, average 0.58 sec, max 0.85 sec, min 0.40 sec)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.11% of total time (compiled   77 times, average 0.44 sec, max 0.59 sec, min 0.31 sec)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display:                                                  FHitProxyVS - 3.11% of total time (compiled   12 times, average 0.62 sec, max 0.81 sec, min 0.43 sec)
+[2024.05.15-11.39.36:402][604]LogShaderCompilers: Display: ================================================
+[2024.05.15-11.40.27:811][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-11.40.27:923][519]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/Combination/WBP_Combination
+[2024.05.15-11.40.27:924][519]LogSavePackage: Moving '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/WBP_Combination25E5948B4C647B00B650D8AD8FC28BC7.tmp' to '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Combination/WBP_Combination.uasset'
+[2024.05.15-11.40.27:934][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 457 ms)
+[2024.05.15-11.40.27:941][519]AssetCheck: New page: Asset Save: WBP_Combination
+[2024.05.15-11.40.27:941][519]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Interactables/Combination/WBP_Combination.WBP_Combination
+[2024.05.15-11.40.28:535][567]BlueprintLog: New page: Compile WBP_Combination
+[2024.05.15-11.40.28:587][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.05.15-11.40.29:477][630]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.15-11.40.29:488][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.15-11.40.29:488][630]PIE: New page: PIE session: L_ArtExterior (15 May 2024, 13:40:29)
+[2024.05.15-11.40.29:488][630]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.40.29:575][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086652s)
+[2024.05.15-11.40.29:575][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/L_ArtExterior.L_ArtExterior to /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior (0.086688s)
+[2024.05.15-11.40.29:575][630]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.40.29:575][630]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.40.29:576][630]LogAIModule: Creating AISystem for world L_ArtExterior
+[2024.05.15-11.40.29:576][630]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2024.05.15-11.40.29:597][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.15-11.40.29:598][630]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.05.15-11.40.29:598][630]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-11.40.29:598][630]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-11.40.29:598][630]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-11.40.29:598][630]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-11.40.29:598][630]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-11.40.29:598][630]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.15-11.40.29:598][630]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-11.40.29:598][630]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-11.40.29:598][630]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-11.40.29:598][630]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-11.40.29:598][630]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-11.40.29:600][630]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-11.40.29:613][630]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.15-11.40.29:613][630]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-11.40.29:613][630]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-11.40.29:613][630]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-11.40.29:614][630]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.05.15-11.40.29:614][630]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.05.15-11.40.29:615][630]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.05.15-11.40.29:615][630]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.05.15-11.40.29:615][630]LogInit: FAudioDevice initialized with ID 8.
+[2024.05.15-11.40.29:615][630]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_ArtExterior'.
+[2024.05.15-11.40.29:615][630]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.15-11.40.29:695][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.40.29:695][630]LogLoad: Game class is '_GM_C'
+[2024.05.15-11.40.29:712][630]LogWorld: Bringing World /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior up for play (max tick rate 0) at 2024.05.15-12.40.29
+[2024.05.15-11.40.29:713][630]LogWorld: Bringing up level for play took: 0.018503
+[2024.05.15-11.40.29:715][630]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.05.15-11.40.29:720][630]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.40.29:720][630]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.40.29:720][630]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.15-11.40.29:722][630]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.40.29:722][630]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_6.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.40.29:722][630]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.40.29:722][630]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_6.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.40.29:722][630]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.40.29:722][630]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_6.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.40.29:723][630]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.40.29:723][630]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_6.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.40.29:723][630]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.40.29:723][630]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_6.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.40.29:723][630]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.40.29:723][630]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_6.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.40.29:723][630]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.40.29:723][630]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_6.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.40.29:723][630]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.40.29:723][630]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_6.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.40.29:725][630]PIE: Server logged in
+[2024.05.15-11.40.29:727][630]PIE: Play in editor total start time 0.24 seconds.
+[2024.05.15-11.40.29:742][630]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.05.15-11.40.30:453][674]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.40.30:453][674]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.40.35:777][867]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.40.35:777][867]LogScript: Warning: Script Msg called by: _PLAYER_C /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior:PersistentLevel._PLAYER_C_0
+[2024.05.15-11.40.35:777][867]LogBlueprintUserMessages: [BPC_ArrowsQTE] No item held
+[2024.05.15-11.40.35:777][867]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.40.35:777][867]LogScript: Warning: Script Msg called by: _PLAYER_C /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior:PersistentLevel._PLAYER_C_0
+[2024.05.15-11.40.35:781][867]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.40.35:781][867]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.40.35:781][867]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.15-11.40.35:826][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.05.15-11.41.06:482][222]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.41.06:482][222]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.41.06:507][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.05.15-11.41.07:672][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.41.07:672][291]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.41.07:675][291]LogSlate: Window 'CGP23 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.15-11.41.07:681][291]LogWorld: UWorld::CleanupWorld for L_ArtExterior, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-11.41.07:685][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.41.07:687][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-11.41.07:693][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.41.07:715][291]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.15-11.41.07:715][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.15-11.41.07:716][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.15-11.41.07:731][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.15-11.41.07:759][292]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.05.15-11.41.09:586][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-11.41.09:699][428]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/Combination/WBP_Combination
+[2024.05.15-11.41.09:699][428]LogSavePackage: Moving '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/WBP_Combination67B892CA4B95C69EFC31F3928A143F62.tmp' to '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Combination/WBP_Combination.uasset'
+[2024.05.15-11.41.09:709][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 579 ms)
+[2024.05.15-11.41.09:715][428]AssetCheck: New page: Asset Save: WBP_Combination
+[2024.05.15-11.41.09:715][428]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Interactables/Combination/WBP_Combination.WBP_Combination
+[2024.05.15-11.41.21:078][371]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe.WBP_CombiRecipe
+[2024.05.15-11.41.21:078][371]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.41.21:078][371]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.41.21:097][371]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.41.21:097][371]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.42.13:614][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-11.42.13:705][397]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe
+[2024.05.15-11.42.13:706][397]LogSavePackage: Moving '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/WBP_CombiRecipe53D964DA40D643684289D89356DBDDC8.tmp' to '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Combination/WBP_CombiRecipe.uasset'
+[2024.05.15-11.42.13:713][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 677 ms)
+[2024.05.15-11.42.13:719][397]AssetCheck: New page: Asset Save: WBP_CombiRecipe
+[2024.05.15-11.42.13:719][397]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe.WBP_CombiRecipe
+[2024.05.15-11.42.14:871][490]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.15-11.42.14:882][490]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.15-11.42.14:884][490]LogPlayLevel: [PlayLevel] Compiling WBP_CombiRecipe before play...
+[2024.05.15-11.42.14:977][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.05.15-11.42.14:978][490]LogPlayLevel: PlayLevel: Blueprint regeneration took 95 ms (1 blueprints)
+[2024.05.15-11.42.14:978][490]PIE: New page: PIE session: L_ArtExterior (15 May 2024, 13:42:14)
+[2024.05.15-11.42.14:978][490]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.42.15:067][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090405s)
+[2024.05.15-11.42.15:067][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/L_ArtExterior.L_ArtExterior to /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior (0.090437s)
+[2024.05.15-11.42.15:067][490]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.42.15:068][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.42.15:068][490]LogAIModule: Creating AISystem for world L_ArtExterior
+[2024.05.15-11.42.15:069][490]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2024.05.15-11.42.15:090][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.05.15-11.42.15:090][490]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.05.15-11.42.15:090][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-11.42.15:090][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-11.42.15:090][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-11.42.15:090][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-11.42.15:090][490]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-11.42.15:090][490]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.15-11.42.15:090][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-11.42.15:091][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-11.42.15:092][490]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-11.42.15:092][490]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-11.42.15:092][490]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-11.42.15:094][490]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-11.42.15:108][490]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.15-11.42.15:108][490]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-11.42.15:108][490]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-11.42.15:108][490]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-11.42.15:109][490]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.05.15-11.42.15:109][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.05.15-11.42.15:110][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.05.15-11.42.15:110][490]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.05.15-11.42.15:110][490]LogInit: FAudioDevice initialized with ID 9.
+[2024.05.15-11.42.15:110][490]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_ArtExterior'.
+[2024.05.15-11.42.15:110][490]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.15-11.42.15:167][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.42.15:167][490]LogLoad: Game class is '_GM_C'
+[2024.05.15-11.42.15:186][490]LogWorld: Bringing World /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior up for play (max tick rate 0) at 2024.05.15-12.42.15
+[2024.05.15-11.42.15:187][490]LogWorld: Bringing up level for play took: 0.019361
+[2024.05.15-11.42.15:189][490]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.05.15-11.42.15:194][490]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.42.15:194][490]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.42.15:194][490]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.15-11.42.15:196][490]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.42.15:196][490]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_7.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.42.15:196][490]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.42.15:196][490]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_7.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.42.15:196][490]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.42.15:196][490]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_7.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.42.15:196][490]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.42.15:196][490]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_7.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.42.15:196][490]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.42.15:196][490]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_7.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.42.15:196][490]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.42.15:196][490]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_7.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.42.15:197][490]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.42.15:197][490]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_7.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.42.15:197][490]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.42.15:197][490]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_7.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.42.15:199][490]PIE: Server logged in
+[2024.05.15-11.42.15:200][490]PIE: Play in editor total start time 0.318 seconds.
+[2024.05.15-11.42.15:221][490]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.05.15-11.42.15:934][538]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.42.15:934][538]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.42.22:689][789]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.42.22:690][789]LogScript: Warning: Script Msg called by: _PLAYER_C /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior:PersistentLevel._PLAYER_C_0
+[2024.05.15-11.42.22:693][789]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.42.22:693][789]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.42.22:693][789]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.15-11.42.22:735][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.15-11.42.41:653][377]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.42.41:653][377]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.42.41:680][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.15-11.42.42:732][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.42.42:732][448]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.42.42:737][448]LogSlate: Window 'CGP23 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.15-11.42.42:746][448]LogWorld: UWorld::CleanupWorld for L_ArtExterior, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-11.42.42:750][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.42.42:753][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-11.42.42:758][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.42.42:782][448]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.15-11.42.42:782][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.15-11.42.42:784][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.15-11.42.42:796][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.05.15-11.42.42:841][449]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.05.15-11.43.06:576][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-11.43.06:695][177]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe
+[2024.05.15-11.43.06:695][177]LogSavePackage: Moving '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/WBP_CombiRecipeD0B3DEC0438C8476DD1284BB10D8E6A3.tmp' to '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Combination/WBP_CombiRecipe.uasset'
+[2024.05.15-11.43.06:703][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 804 ms)
+[2024.05.15-11.43.06:709][177]AssetCheck: New page: Asset Save: WBP_CombiRecipe
+[2024.05.15-11.43.06:709][177]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe.WBP_CombiRecipe
+[2024.05.15-11.43.07:783][259]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.15-11.43.07:795][259]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.15-11.43.07:797][259]LogPlayLevel: [PlayLevel] Compiling WBP_CombiRecipe before play...
+[2024.05.15-11.43.07:945][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.05.15-11.43.07:945][259]LogPlayLevel: PlayLevel: Blueprint regeneration took 149 ms (1 blueprints)
+[2024.05.15-11.43.07:945][259]PIE: New page: PIE session: L_ArtExterior (15 May 2024, 13:43:07)
+[2024.05.15-11.43.07:945][259]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.43.08:036][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091552s)
+[2024.05.15-11.43.08:037][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/L_ArtExterior.L_ArtExterior to /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior (0.091593s)
+[2024.05.15-11.43.08:037][259]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.43.08:037][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.43.08:037][259]LogAIModule: Creating AISystem for world L_ArtExterior
+[2024.05.15-11.43.08:037][259]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2024.05.15-11.43.08:058][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.05.15-11.43.08:058][259]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.05.15-11.43.08:058][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-11.43.08:058][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-11.43.08:058][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-11.43.08:058][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-11.43.08:058][259]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-11.43.08:058][259]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.15-11.43.08:058][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-11.43.08:058][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-11.43.08:059][259]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-11.43.08:059][259]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-11.43.08:059][259]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-11.43.08:060][259]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-11.43.08:075][259]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.15-11.43.08:075][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-11.43.08:075][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-11.43.08:075][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-11.43.08:077][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.05.15-11.43.08:077][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.05.15-11.43.08:078][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.05.15-11.43.08:078][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.05.15-11.43.08:078][259]LogInit: FAudioDevice initialized with ID 10.
+[2024.05.15-11.43.08:078][259]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_ArtExterior'.
+[2024.05.15-11.43.08:078][259]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.15-11.43.08:135][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.43.08:136][259]LogLoad: Game class is '_GM_C'
+[2024.05.15-11.43.08:153][259]LogWorld: Bringing World /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior up for play (max tick rate 0) at 2024.05.15-12.43.08
+[2024.05.15-11.43.08:154][259]LogWorld: Bringing up level for play took: 0.018677
+[2024.05.15-11.43.08:156][259]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.05.15-11.43.08:161][259]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.43.08:162][259]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.43.08:162][259]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.15-11.43.08:163][259]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.08:163][259]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_8.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_8.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_8.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_8.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_8.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_8.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_8.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.08:164][259]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_8.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.08:166][259]PIE: Server logged in
+[2024.05.15-11.43.08:168][259]PIE: Play in editor total start time 0.372 seconds.
+[2024.05.15-11.43.08:202][259]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.05.15-11.43.08:928][303]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.43.08:928][303]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.43.14:373][508]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.14:374][508]LogScript: Warning: Script Msg called by: _PLAYER_C /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior:PersistentLevel._PLAYER_C_0
+[2024.05.15-11.43.14:377][508]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.43.14:377][508]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.43.14:377][508]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.15-11.43.14:421][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.05.15-11.43.25:632][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.43.25:632][370]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.43.25:633][370]LogSlate: Window 'CGP23 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.15-11.43.25:640][370]LogWorld: UWorld::CleanupWorld for L_ArtExterior, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-11.43.25:643][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.43.25:646][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-11.43.25:651][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.43.25:677][370]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.15-11.43.25:677][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.15-11.43.25:678][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.15-11.43.25:690][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.05.15-11.43.25:713][371]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.05.15-11.43.37:330][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-11.43.37:439][382]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe
+[2024.05.15-11.43.37:439][382]LogSavePackage: Moving '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/WBP_CombiRecipe3CF8E798424E1E2F663EEBBE8FC937C5.tmp' to '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Combination/WBP_CombiRecipe.uasset'
+[2024.05.15-11.43.37:446][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 920 ms)
+[2024.05.15-11.43.37:452][382]AssetCheck: New page: Asset Save: WBP_CombiRecipe
+[2024.05.15-11.43.37:452][382]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe.WBP_CombiRecipe
+[2024.05.15-11.43.38:075][428]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.15-11.43.38:088][428]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.15-11.43.38:089][428]LogPlayLevel: [PlayLevel] Compiling WBP_CombiRecipe before play...
+[2024.05.15-11.43.38:200][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.05.15-11.43.38:202][428]LogPlayLevel: PlayLevel: Blueprint regeneration took 115 ms (1 blueprints)
+[2024.05.15-11.43.38:202][428]PIE: New page: PIE session: L_ArtExterior (15 May 2024, 13:43:38)
+[2024.05.15-11.43.38:202][428]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.43.38:292][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089996s)
+[2024.05.15-11.43.38:292][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/L_ArtExterior.L_ArtExterior to /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior (0.090026s)
+[2024.05.15-11.43.38:292][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.43.38:292][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.43.38:292][428]LogAIModule: Creating AISystem for world L_ArtExterior
+[2024.05.15-11.43.38:293][428]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2024.05.15-11.43.38:314][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.15-11.43.38:315][428]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.05.15-11.43.38:315][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-11.43.38:315][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-11.43.38:315][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-11.43.38:315][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-11.43.38:315][428]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-11.43.38:315][428]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.15-11.43.38:315][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-11.43.38:315][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-11.43.38:316][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-11.43.38:316][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-11.43.38:316][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-11.43.38:317][428]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-11.43.38:332][428]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.15-11.43.38:332][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-11.43.38:332][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-11.43.38:332][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-11.43.38:333][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.05.15-11.43.38:333][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.05.15-11.43.38:334][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.05.15-11.43.38:334][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.05.15-11.43.38:334][428]LogInit: FAudioDevice initialized with ID 11.
+[2024.05.15-11.43.38:334][428]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_ArtExterior'.
+[2024.05.15-11.43.38:334][428]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.15-11.43.38:409][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.43.38:409][428]LogLoad: Game class is '_GM_C'
+[2024.05.15-11.43.38:428][428]LogWorld: Bringing World /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior up for play (max tick rate 0) at 2024.05.15-12.43.38
+[2024.05.15-11.43.38:429][428]LogWorld: Bringing up level for play took: 0.019244
+[2024.05.15-11.43.38:430][428]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.05.15-11.43.38:436][428]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.43.38:436][428]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.43.38:436][428]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.15-11.43.38:438][428]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.38:438][428]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_9.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.38:438][428]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.38:438][428]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_9.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.38:438][428]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.38:438][428]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_9.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.38:438][428]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.38:438][428]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_9.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.38:438][428]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.38:438][428]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_9.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.38:439][428]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.38:439][428]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_9.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.38:439][428]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.38:439][428]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_9.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.38:439][428]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.38:439][428]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_9.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.43.38:441][428]PIE: Server logged in
+[2024.05.15-11.43.38:442][428]PIE: Play in editor total start time 0.356 seconds.
+[2024.05.15-11.43.38:460][428]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.05.15-11.43.39:191][474]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.43.39:191][474]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.43.44:341][663]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.43.44:341][663]LogScript: Warning: Script Msg called by: _PLAYER_C /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior:PersistentLevel._PLAYER_C_0
+[2024.05.15-11.43.44:345][663]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.43.44:345][663]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.43.44:345][663]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.15-11.43.44:391][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.15-11.44.00:122][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.44.00:122][902]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.44.00:123][902]LogSlate: Window 'CGP23 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.15-11.44.00:130][902]LogWorld: UWorld::CleanupWorld for L_ArtExterior, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-11.44.00:133][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.44.00:135][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-11.44.00:141][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.44.00:168][902]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.15-11.44.00:168][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.15-11.44.00:170][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.15-11.44.00:183][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.15-11.44.00:206][903]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.05.15-11.44.13:828][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-11.44.13:945][949]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe
+[2024.05.15-11.44.13:945][949]LogSavePackage: Moving '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/WBP_CombiRecipe604D573849458C344BD64781EFD8E81C.tmp' to '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Combination/WBP_CombiRecipe.uasset'
+[2024.05.15-11.44.13:953][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 1.04 sec)
+[2024.05.15-11.44.13:960][949]AssetCheck: New page: Asset Save: WBP_CombiRecipe
+[2024.05.15-11.44.13:960][949]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe.WBP_CombiRecipe
+[2024.05.15-11.44.15:507][ 70]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.15-11.44.15:518][ 70]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.15-11.44.15:520][ 70]LogPlayLevel: [PlayLevel] Compiling WBP_CombiRecipe before play...
+[2024.05.15-11.44.15:661][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.05.15-11.44.15:662][ 70]LogPlayLevel: PlayLevel: Blueprint regeneration took 143 ms (1 blueprints)
+[2024.05.15-11.44.15:662][ 70]PIE: New page: PIE session: L_ArtExterior (15 May 2024, 13:44:15)
+[2024.05.15-11.44.15:662][ 70]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.44.15:757][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094876s)
+[2024.05.15-11.44.15:757][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/L_ArtExterior.L_ArtExterior to /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior (0.094907s)
+[2024.05.15-11.44.15:757][ 70]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.44.15:757][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.44.15:757][ 70]LogAIModule: Creating AISystem for world L_ArtExterior
+[2024.05.15-11.44.15:758][ 70]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2024.05.15-11.44.15:777][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.15-11.44.15:778][ 70]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.05.15-11.44.15:778][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-11.44.15:778][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-11.44.15:778][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-11.44.15:778][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-11.44.15:778][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-11.44.15:778][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.15-11.44.15:778][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-11.44.15:778][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-11.44.15:778][ 70]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-11.44.15:778][ 70]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-11.44.15:778][ 70]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-11.44.15:780][ 70]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-11.44.15:794][ 70]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.15-11.44.15:794][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-11.44.15:794][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-11.44.15:794][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-11.44.15:797][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.05.15-11.44.15:797][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.05.15-11.44.15:798][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.05.15-11.44.15:798][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.05.15-11.44.15:798][ 70]LogInit: FAudioDevice initialized with ID 12.
+[2024.05.15-11.44.15:798][ 70]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_ArtExterior'.
+[2024.05.15-11.44.15:798][ 70]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.15-11.44.15:868][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.44.15:868][ 70]LogLoad: Game class is '_GM_C'
+[2024.05.15-11.44.15:887][ 70]LogWorld: Bringing World /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior up for play (max tick rate 0) at 2024.05.15-12.44.15
+[2024.05.15-11.44.15:888][ 70]LogWorld: Bringing up level for play took: 0.019662
+[2024.05.15-11.44.15:890][ 70]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.05.15-11.44.15:896][ 70]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.44.15:896][ 70]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.44.15:896][ 70]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.15-11.44.15:898][ 70]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.44.15:898][ 70]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_10.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.44.15:898][ 70]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.44.15:898][ 70]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_10.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.44.15:898][ 70]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.44.15:898][ 70]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_10.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.44.15:898][ 70]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.44.15:898][ 70]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_10.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.44.15:898][ 70]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.44.15:898][ 70]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_10.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.44.15:898][ 70]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.44.15:898][ 70]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_10.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.44.15:899][ 70]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.44.15:899][ 70]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_10.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.44.15:899][ 70]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.44.15:899][ 70]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_10.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.44.15:901][ 70]PIE: Server logged in
+[2024.05.15-11.44.15:903][ 70]PIE: Play in editor total start time 0.384 seconds.
+[2024.05.15-11.44.15:936][ 70]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.05.15-11.44.16:869][131]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.44.16:869][131]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.44.22:282][331]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.44.22:282][331]LogScript: Warning: Script Msg called by: _PLAYER_C /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior:PersistentLevel._PLAYER_C_0
+[2024.05.15-11.44.22:286][331]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.44.22:286][331]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.44.22:286][331]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.15-11.44.22:333][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.15-11.44.32:428][116]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.44.32:428][116]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.44.32:455][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.15-11.44.33:442][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.44.33:442][176]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.44.33:444][176]LogSlate: Window 'CGP23 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.15-11.44.33:450][176]LogWorld: UWorld::CleanupWorld for L_ArtExterior, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-11.44.33:453][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.44.33:456][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-11.44.33:461][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.44.33:488][176]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.15-11.44.33:488][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.15-11.44.33:489][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.15-11.44.33:501][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.15-11.44.33:525][177]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.05.15-11.45.24:313][780]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-11.45.31:160][248]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-11.45.32:236][324]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.15-11.45.32:247][324]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.15-11.45.32:249][324]LogPlayLevel: [PlayLevel] Compiling WBP_CombiRecipe before play...
+[2024.05.15-11.45.32:389][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-11.45.32:492][324]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe
+[2024.05.15-11.45.32:493][324]LogSavePackage: Moving '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/WBP_CombiRecipe31EAB8BD4D1E5741115E1A8E7A256999.tmp' to '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Combination/WBP_CombiRecipe.uasset'
+[2024.05.15-11.45.32:501][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 1.15 sec)
+[2024.05.15-11.45.32:522][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.05.15-11.45.32:522][324]LogPlayLevel: PlayLevel: Blueprint regeneration took 274 ms (1 blueprints)
+[2024.05.15-11.45.32:522][324]PIE: New page: PIE session: L_ArtExterior (15 May 2024, 13:45:32)
+[2024.05.15-11.45.32:522][324]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.45.32:613][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091107s)
+[2024.05.15-11.45.32:613][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/L_ArtExterior.L_ArtExterior to /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior (0.091137s)
+[2024.05.15-11.45.32:613][324]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.45.32:614][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.45.32:614][324]LogAIModule: Creating AISystem for world L_ArtExterior
+[2024.05.15-11.45.32:614][324]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2024.05.15-11.45.32:635][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.15-11.45.32:636][324]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.05.15-11.45.32:636][324]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-11.45.32:636][324]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-11.45.32:636][324]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-11.45.32:636][324]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-11.45.32:636][324]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-11.45.32:636][324]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.15-11.45.32:636][324]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-11.45.32:636][324]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-11.45.32:636][324]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-11.45.32:636][324]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-11.45.32:636][324]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-11.45.32:638][324]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-11.45.32:652][324]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.15-11.45.32:652][324]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-11.45.32:652][324]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-11.45.32:652][324]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-11.45.32:653][324]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.05.15-11.45.32:653][324]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.05.15-11.45.32:654][324]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.05.15-11.45.32:654][324]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.05.15-11.45.32:654][324]LogInit: FAudioDevice initialized with ID 13.
+[2024.05.15-11.45.32:654][324]LogAudio: Display: Audio Device (ID: 13) registered with world 'L_ArtExterior'.
+[2024.05.15-11.45.32:654][324]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.15-11.45.32:712][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.45.32:713][324]LogLoad: Game class is '_GM_C'
+[2024.05.15-11.45.32:732][324]LogWorld: Bringing World /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior up for play (max tick rate 0) at 2024.05.15-12.45.32
+[2024.05.15-11.45.32:733][324]LogWorld: Bringing up level for play took: 0.020654
+[2024.05.15-11.45.32:735][324]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.05.15-11.45.32:741][324]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.45.32:741][324]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.45.32:741][324]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_11.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_11.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_11.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_11.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_11.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_11.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.45.32:743][324]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_11.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.45.32:744][324]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.45.32:744][324]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_11.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.45.32:746][324]PIE: Server logged in
+[2024.05.15-11.45.32:749][324]PIE: Play in editor total start time 0.501 seconds.
+[2024.05.15-11.45.32:799][324]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.05.15-11.45.32:834][325]AssetCheck: New page: Asset Save: WBP_CombiRecipe
+[2024.05.15-11.45.32:834][325]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe.WBP_CombiRecipe
+[2024.05.15-11.45.33:506][360]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.45.33:506][360]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.45.38:730][538]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.45.38:730][538]LogScript: Warning: Script Msg called by: _PLAYER_C /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior:PersistentLevel._PLAYER_C_0
+[2024.05.15-11.45.38:733][538]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.45.38:733][538]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.45.38:733][538]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.15-11.45.38:779][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.15-11.45.53:753][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.45.53:753][517]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.45.53:753][517]LogSlate: Window 'CGP23 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.15-11.45.53:761][517]LogWorld: UWorld::CleanupWorld for L_ArtExterior, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-11.45.53:764][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.45.53:767][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-11.45.53:772][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.45.53:796][517]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.15-11.45.53:796][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.15-11.45.53:798][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.15-11.45.53:809][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.15-11.45.53:835][518]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.05.15-11.46.26:380][766]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-11.46.27:947][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-11.46.28:058][878]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe
+[2024.05.15-11.46.28:058][878]LogSavePackage: Moving '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/WBP_CombiRecipeA5E27F324CAA6795A16856BD6262D90B.tmp' to '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Combination/WBP_CombiRecipe.uasset'
+[2024.05.15-11.46.28:067][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.27 sec)
+[2024.05.15-11.46.28:072][878]AssetCheck: New page: Asset Save: WBP_CombiRecipe
+[2024.05.15-11.46.28:072][878]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe.WBP_CombiRecipe
+[2024.05.15-11.46.29:181][959]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.15-11.46.29:192][959]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.15-11.46.29:194][959]LogPlayLevel: [PlayLevel] Compiling WBP_CombiRecipe before play...
+[2024.05.15-11.46.29:309][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.05.15-11.46.29:310][959]LogPlayLevel: PlayLevel: Blueprint regeneration took 117 ms (1 blueprints)
+[2024.05.15-11.46.29:310][959]PIE: New page: PIE session: L_ArtExterior (15 May 2024, 13:46:29)
+[2024.05.15-11.46.29:311][959]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.46.29:401][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090796s)
+[2024.05.15-11.46.29:401][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/L_ArtExterior.L_ArtExterior to /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior (0.090855s)
+[2024.05.15-11.46.29:401][959]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.46.29:401][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.46.29:402][959]LogAIModule: Creating AISystem for world L_ArtExterior
+[2024.05.15-11.46.29:402][959]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2024.05.15-11.46.29:423][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.15-11.46.29:424][959]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.05.15-11.46.29:424][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-11.46.29:424][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-11.46.29:424][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-11.46.29:424][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-11.46.29:424][959]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-11.46.29:424][959]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.15-11.46.29:424][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-11.46.29:424][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-11.46.29:424][959]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-11.46.29:424][959]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-11.46.29:424][959]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-11.46.29:426][959]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-11.46.29:440][959]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.15-11.46.29:440][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-11.46.29:440][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-11.46.29:440][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-11.46.29:441][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.05.15-11.46.29:441][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.05.15-11.46.29:443][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.05.15-11.46.29:443][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.05.15-11.46.29:443][959]LogInit: FAudioDevice initialized with ID 14.
+[2024.05.15-11.46.29:443][959]LogAudio: Display: Audio Device (ID: 14) registered with world 'L_ArtExterior'.
+[2024.05.15-11.46.29:443][959]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.05.15-11.46.29:515][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.46.29:515][959]LogLoad: Game class is '_GM_C'
+[2024.05.15-11.46.29:533][959]LogWorld: Bringing World /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior up for play (max tick rate 0) at 2024.05.15-12.46.29
+[2024.05.15-11.46.29:535][959]LogWorld: Bringing up level for play took: 0.018978
+[2024.05.15-11.46.29:535][959]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.05.15-11.46.29:541][959]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.46.29:541][959]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.46.29:541][959]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.15-11.46.29:543][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.46.29:543][959]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_12.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.46.29:543][959]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.46.29:543][959]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_12.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.46.29:543][959]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.46.29:543][959]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_12.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.46.29:543][959]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.46.29:543][959]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_12.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.46.29:543][959]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.46.29:543][959]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_12.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.46.29:543][959]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.46.29:543][959]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_12.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.46.29:544][959]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.46.29:544][959]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_12.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.46.29:544][959]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.46.29:544][959]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_12.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.46.29:547][959]PIE: Server logged in
+[2024.05.15-11.46.29:549][959]PIE: Play in editor total start time 0.357 seconds.
+[2024.05.15-11.46.29:592][959]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.05.15-11.46.30:347][  0]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.46.30:347][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.46.36:432][217]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.46.36:432][217]LogScript: Warning: Script Msg called by: _PLAYER_C /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior:PersistentLevel._PLAYER_C_0
+[2024.05.15-11.46.36:435][217]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.46.36:435][217]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.46.36:435][217]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.15-11.46.36:482][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.05.15-11.46.39:542][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.46.39:542][422]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.46.39:542][422]LogSlate: Window 'CGP23 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.15-11.46.39:550][422]LogWorld: UWorld::CleanupWorld for L_ArtExterior, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-11.46.39:553][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.46.39:556][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-11.46.39:561][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.46.39:585][422]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.05.15-11.46.39:585][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.15-11.46.39:587][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.15-11.46.39:599][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.15-11.46.39:624][423]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.05.15-11.47.01:453][897]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.15-11.47.03:124][ 14]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.05.15-11.47.03:135][ 14]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.15-11.47.03:137][ 14]LogPlayLevel: [PlayLevel] Compiling WBP_CombiRecipe before play...
+[2024.05.15-11.47.03:245][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.15-11.47.03:349][ 14]LogSavePackage: Moving output files for package: /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe
+[2024.05.15-11.47.03:350][ 14]LogSavePackage: Moving '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/WBP_CombiRecipeF6455BB741CBBD2070D4D5BA10EA916B.tmp' to '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Combination/WBP_CombiRecipe.uasset'
+[2024.05.15-11.47.03:358][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.38 sec)
+[2024.05.15-11.47.03:379][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.15-11.47.03:380][ 14]LogPlayLevel: PlayLevel: Blueprint regeneration took 245 ms (1 blueprints)
+[2024.05.15-11.47.03:380][ 14]PIE: New page: PIE session: L_ArtExterior (15 May 2024, 13:47:03)
+[2024.05.15-11.47.03:380][ 14]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.47.03:468][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088051s)
+[2024.05.15-11.47.03:468][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/L_ArtExterior.L_ArtExterior to /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior (0.088092s)
+[2024.05.15-11.47.03:468][ 14]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.15-11.47.03:468][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.15-11.47.03:469][ 14]LogAIModule: Creating AISystem for world L_ArtExterior
+[2024.05.15-11.47.03:469][ 14]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2024.05.15-11.47.03:490][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.15-11.47.03:490][ 14]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.05.15-11.47.03:490][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.15-11.47.03:490][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.15-11.47.03:490][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.15-11.47.03:490][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.15-11.47.03:490][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.15-11.47.03:490][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.15-11.47.03:490][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.15-11.47.03:490][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.15-11.47.03:491][ 14]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.15-11.47.03:491][ 14]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.15-11.47.03:491][ 14]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.15-11.47.03:492][ 14]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.15-11.47.03:507][ 14]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.15-11.47.03:507][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.15-11.47.03:507][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.15-11.47.03:507][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.15-11.47.03:508][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.05.15-11.47.03:508][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.05.15-11.47.03:509][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.05.15-11.47.03:509][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.05.15-11.47.03:509][ 14]LogInit: FAudioDevice initialized with ID 15.
+[2024.05.15-11.47.03:509][ 14]LogAudio: Display: Audio Device (ID: 15) registered with world 'L_ArtExterior'.
+[2024.05.15-11.47.03:509][ 14]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.05.15-11.47.03:589][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.47.03:589][ 14]LogLoad: Game class is '_GM_C'
+[2024.05.15-11.47.03:608][ 14]LogWorld: Bringing World /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior up for play (max tick rate 0) at 2024.05.15-12.47.03
+[2024.05.15-11.47.03:609][ 14]LogWorld: Bringing up level for play took: 0.019207
+[2024.05.15-11.47.03:611][ 14]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.05.15-11.47.03:616][ 14]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.47.03:616][ 14]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.47.03:616][ 14]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.05.15-11.47.03:618][ 14]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.47.03:618][ 14]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_13.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.47.03:618][ 14]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.47.03:618][ 14]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_13.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.47.03:618][ 14]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.47.03:618][ 14]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_13.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.47.03:619][ 14]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.47.03:619][ 14]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_13.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.47.03:619][ 14]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.47.03:619][ 14]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_13.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.47.03:619][ 14]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.47.03:619][ 14]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_13.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.47.03:619][ 14]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.47.03:619][ 14]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_13.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.47.03:619][ 14]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.47.03:619][ 14]LogScript: Warning: Script Msg called by: UI_Inventory_C /Engine/Transient.UnrealEdEngine_0:_GAMEINSTANCE_C_13.UI_HUD_C_0.WidgetTree_0.UI_Inventory
+[2024.05.15-11.47.03:622][ 14]PIE: Server logged in
+[2024.05.15-11.47.03:624][ 14]PIE: Play in editor total start time 0.49 seconds.
+[2024.05.15-11.47.03:669][ 14]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.05.15-11.47.03:706][ 15]AssetCheck: New page: Asset Save: WBP_CombiRecipe
+[2024.05.15-11.47.03:706][ 15]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Interactables/Combination/WBP_CombiRecipe.WBP_CombiRecipe
+[2024.05.15-11.47.04:604][ 65]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.47.04:604][ 65]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.47.09:540][229]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.47.09:541][229]LogScript: Warning: Script Msg called by: _PLAYER_C /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior:PersistentLevel._PLAYER_C_0
+[2024.05.15-11.47.09:541][229]LogBlueprintUserMessages: [BPC_ArrowsQTE] No item held
+[2024.05.15-11.47.09:541][229]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/Blueprints/Inventory/BPC_Inventory.BPC_Inventory_C'!
+[2024.05.15-11.47.09:541][229]LogScript: Warning: Script Msg called by: _PLAYER_C /Game/Map/UEDPIE_0_L_ArtExterior.L_ArtExterior:PersistentLevel._PLAYER_C_0
+[2024.05.15-11.47.09:544][229]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2024.05.15-11.47.09:544][229]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.05.15-11.47.09:544][229]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.05.15-11.47.09:594][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.15-11.47.56:628][286]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.05.15-11.47.56:628][286]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.05.15-11.47.56:654][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.05.15-11.47.58:252][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.15-11.47.58:252][367]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_L_ArtExterior
+[2024.05.15-11.47.58:256][367]LogSlate: Window 'CGP23 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.15-11.47.58:263][367]LogWorld: UWorld::CleanupWorld for L_ArtExterior, bSessionEnded=true, bCleanupResources=true
+[2024.05.15-11.47.58:265][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.47.58:268][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.15-11.47.58:273][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.15-11.47.58:298][367]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.05.15-11.47.58:299][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.05.15-11.47.58:300][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.05.15-11.47.58:312][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.05.15-11.47.58:338][368]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.05.15-11.48.31:336][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.15-11.48.31:512][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/L_ArtExterior_Auto1
+[2024.05.15-11.48.31:512][727]LogSavePackage: Moving '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/L_ArtExterior_Auto196AF670546C40EA57F4DB4A3884ECFCC.tmp' to '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/Autosaves/Game/Map/L_ArtExterior_Auto1.umap'
+[2024.05.15-11.48.31:520][727]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/L_ArtExterior' took 0.204
+[2024.05.15-11.48.31:520][727]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.204
+[2024.05.15-11.48.31:520][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Art/sheep_art__1_] ([1] browsable assets)...
+[2024.05.15-11.48.31:525][727]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Art/sheep_art__1_.sheep_art__1_]
+[2024.05.15-11.48.31:525][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Art/sheep_art__1_]
+[2024.05.15-11.48.31:543][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Art/sheep_art__1__Auto1
+[2024.05.15-11.48.31:543][727]LogSavePackage: Moving '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/sheep_art__1__Auto1D55EE9B043D0C9A68F4E91B497A67026.tmp' to '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/Autosaves/Game/Assets/Art/sheep_art__1__Auto1.uasset'
+[2024.05.15-11.48.31:543][727]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Art/speach_bubble] ([1] browsable assets)...
+[2024.05.15-11.48.31:548][727]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Art/speach_bubble.speach_bubble]
+[2024.05.15-11.48.31:548][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Art/speach_bubble]
+[2024.05.15-11.48.31:561][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Art/speach_bubble_Auto1
+[2024.05.15-11.48.31:561][727]LogSavePackage: Moving '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/speach_bubble_Auto1DE1BB95B4992372A89BBFEAECDA003CE.tmp' to '../../../../../../Users/d017080k/Documents/GitHub/CGP-23/CGP23/Saved/Autosaves/Game/Assets/Art/speach_bubble_Auto1.uasset'
+[2024.05.15-11.48.31:562][727]LogFileHelpers: Auto-saving content packages took 0.041
