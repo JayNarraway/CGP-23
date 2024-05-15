@@ -20,7 +20,14 @@
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/Fishing_Visuals/BP_FishingLure.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_Water.uasset",
 				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Assets/Meshes/EnvModular/exterior/BP_FenceSpline.uasset",
-				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_Ladder.uasset"
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Interactables/BP_Ladder.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Static_Data/SMenu/SMenu.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Static_Data/Food/DT_CombiData.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Static_Data/SMenu/DT_Menu0.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Tech/Currency/BP_Shop.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Customers/BP_CustomerManager.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Blueprints/Customers/BP_Customer.uasset",
+				"C:/Users/W013321M/Documents/GitHub/CGP-23/CGP23/Content/Static_Data/SMenu/DT_Menu1.uasset"
 			]
 		}
 	]
