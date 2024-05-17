@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/VFX/NS_PanFire.uasset",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/Splash/EdSplash.uasset",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/Splash/Splash.uasset",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/QuestSys/BPC_QuestLog.uasset",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/Map/L_Tutorial.umap",
+				"C:/Users/m014035m/Documents/GitHub/CGP-23/CGP23/Content/VFX/NS_Confetti.uasset",
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/CropPlot/BP_CropActor.uasset",
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Map/L_ArtExterior.umap",
 				"G:/UnrealEngine/Projects/TheFinalSeconds/CGP-23/CGP23/Content/Tech/BuildingNQuests/Blueprints/QuestSys/DT_QuestData.uasset",
